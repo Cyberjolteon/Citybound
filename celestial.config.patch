@@ -1,0 +1,33 @@
+[
+
+{"op" : "add",
+"path" : "/terrestrialHorizonGraphics/populated",
+"value" :
+{
+ "baseImages" : "/celestial/system/terrestrial/horizon/textures/garden_<selector>.png",
+      "maskTextures" : "/celestial/system/terrestrial/horizon/masks/temperate/<mask>_<selector>.png",
+      "maskRange" : [1, 25],
+      "maskPerPlanetRange" : [3, 3]
+}},
+
+{"op" : "add",
+	"path" : "/terrestrialGraphics/populated",
+	"value" :
+{
+      "baseImages" : "/celestial/system/terrestrial/horizon/textures/garden_<selector>.png",
+      "maskTextures" : "/celestial/system/terrestrial/horizon/masks/temperate/<mask>_<selector>.png",
+      "maskRange" : [1, 25],
+      "maskPerPlanetRange" : [3, 3]
+}},
+
+{"op":"add",
+	"path":"/planetaryTypes/Tier1/baseParameters/terrestrialType/-",
+	"value":"populated"
+},
+
+{"op":"add",
+	"path":"/satelliteTypes/Tier1/baseParameters/terrestrialType/-",
+	"value":"populated"
+}
+
+]
