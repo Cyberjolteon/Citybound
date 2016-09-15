@@ -14,10 +14,10 @@
 	"path" : "/terrestrialGraphics/populated",
 	"value" :
 {
-      "baseImages" : "/celestial/system/terrestrial/horizon/textures/garden_<selector>.png",
-      "maskTextures" : "/celestial/system/terrestrial/horizon/masks/temperate/<mask>_<selector>.png",
-      "maskRange" : [1, 25],
-      "maskPerPlanetRange" : [3, 3]
+      "baseImages" : "/celestial/system/terrestrial/biomes/garden/maskie<num>.png",
+      "dynamicsImages" : "/celestial/system/terrestrial/dynamics/temperate/<num>.png",
+      "dynamicsRange" : [1, 30],
+      "baseCount" : 5
 }},
 
 {"op":"add",
