@@ -80,7 +80,7 @@
   "subBlocks" : [ "cobblestone", "mud" ],
   "ores" : "surface",
 
-  "parallax" : "parallax/surface/civilized.parallax",
+  "parallax" : "/parallax/surface/civilized.parallax",
 
   "ambientNoises" : {
     "day" : {

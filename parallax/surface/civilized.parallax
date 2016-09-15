@@ -17,7 +17,6 @@
       "tileLimitTop" : 325,
       "parallax" : 1.2
     },
-
     {
       "kind" : "grassbelow1",
       "offset" : [0, 190],
