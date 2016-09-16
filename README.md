@@ -4,7 +4,7 @@ This respitory is from the Citybound mod.
 ## Installation
 
  1. Download all the assets
- 2. place all the files in the starbound/mods folder (example: Starbound/mods/Citybound
+ 2. place all the files in the starbound/mods folder (example: Starbound/mods/Citybound)
  3. play/test!
  
 ## History
