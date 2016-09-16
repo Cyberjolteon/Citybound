@@ -4,7 +4,7 @@
 "path" : "/terrestrialHorizonGraphics/populated",
 "value" :
 {
- "baseImages" : "/celestial/system/terrestrial/horizon/textures/garden_<selector>.png",
+ "baseImages" : "/celestial/system/terrestrial/horizon/textures/civil_<selector>.png",
       "maskTextures" : "/celestial/system/terrestrial/horizon/masks/temperate/<mask>_<selector>.png",
       "maskRange" : [1, 25],
       "maskPerPlanetRange" : [3, 3]
