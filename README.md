@@ -9,7 +9,7 @@ This respitory is from the Citybound mod.
  
 ## History
 Citybound started out as a background replacer for the lushplanets.
-WIth the new update. the planet is standalone and works independend
+With the new update. the planet is standalone and works independend.
 
 ## Contributing?
 1. Fork it!
