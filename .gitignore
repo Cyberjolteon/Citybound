@@ -1,17 +1,42 @@
-#############
-## Windows junk
-#############
+# Compiled Lua sources
+luac.out
 
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+# luarocks build files
+*.src.rock
+*.zip
+*.tar.gz
 
-# Folder config file
-Desktop.ini
+# Object files
+*.o
+*.os
+*.ko
+*.obj
+*.elf
+*.db
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+# Precompiled Headers
+*.gch
+*.pch
 
-# Mac crap
-.DS_Store
-*.bak
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.def
+*.exp
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
