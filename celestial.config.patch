@@ -28,6 +28,17 @@
 {"op":"add",
 	"path":"/satelliteTypes/Tier1/baseParameters/terrestrialType/-",
 	"value":"populated"
+},
+
+{"op":"add",
+	"path":"/planetaryTypes/Tier2/baseParameters/terrestrialType/-",
+	"value":"populated"
+},
+
+{"op":"add",
+	"path":"/satelliteTypes/Tier2/baseParameters/terrestrialType/-",
+	"value":"populated"
 }
+
 
 ]
