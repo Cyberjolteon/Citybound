@@ -72,7 +72,7 @@
       "rules" : [
         [ "maxSpawnCount", [1] ],
         [ "doNotConnectToPart", [ "humancitystore1clue" ] ],
-        [ "doNotCombineWith", [ "humancitystore1", "humancitybuilding3clue", "humancitybuilding2clue", "humancitymansion1clue", "humancityflat2clue" ] ]
+        [ "doNotCombineWith", [ "humancitystore1", "humancitybuilding3clue", "humancitybuilding2clue", "humancitymansion2clue", "humancityflat2clue" ] ]
 
       ],
       "def" : [ "tmx", "humancitystore1clue.json" ]
@@ -109,7 +109,7 @@
       "rules" : [
         [ "maxSpawnCount", [1] ],
         [ "doNotConnectToPart", [ "humancitybuilding2clue" ] ],
-        [ "doNotCombineWith", [ "humancitybuilding2", "humancitybuilding3clue", "humancitystore1clue", "humancitymansion1clue", "humancityflat2clue" ] ]
+        [ "doNotCombineWith", [ "humancitybuilding2", "humancitybuilding3clue", "humancitystore1clue", "humancitymansion2clue", "humancityflat2clue" ] ]
 
       ],
       "def" : [ "tmx", "humancitybuilding2clue.json" ]
@@ -128,7 +128,7 @@
       "rules" : [
         [ "maxSpawnCount", [1] ],
         [ "doNotConnectToPart", [ "humancitybuilding3clue" ] ],
-        [ "doNotCombineWith", [ "humancitybuilding3", "humancitybuilding2clue", "humancitystore1clue", "humancitymansion1clue", "humancityflat2clue" ] ]
+        [ "doNotCombineWith", [ "humancitybuilding3", "humancitybuilding2clue", "humancitystore1clue", "humancitymansion2clue", "humancityflat2clue" ] ]
 
       ],
       "def" : [ "tmx", "humancitybuilding3clue.json" ]
@@ -143,14 +143,14 @@
       "def" : [ "tmx", "humancitymansion2.json" ]
     },
     {
-      "name" : "humancitymansion1clue",
+      "name" : "humancitymansion2clue",
       "rules" : [
         [ "maxSpawnCount", [1] ],
-        [ "doNotConnectToPart", [ "humancitymansion1clue" ] ],
+        [ "doNotConnectToPart", [ "humancitymansion2clue" ] ],
         [ "doNotCombineWith", [ "humancitymansion2", "humancitybuilding2clue", "humancitybuilding3clue", "humancitystore1clue", "humancityflat2clue" ] ]
 
       ],
-      "def" : [ "tmx", "humancitymansion1clue.json" ]
+      "def" : [ "tmx", "humancitymansion2clue.json" ]
     },
     {
       "name" : "humancityflat1",
@@ -175,7 +175,7 @@
       "rules" : [
         [ "maxSpawnCount", [1] ],
         [ "doNotConnectToPart", [ "humancityflat2clue" ] ],
-        [ "doNotCombineWith", [ "humancityflat2", "humancitybuilding2clue", "humancitybuilding3clue", "humancitystore1clue", "humancitymansion1clue" ] ]
+        [ "doNotCombineWith", [ "humancityflat2", "humancitybuilding2clue", "humancitybuilding3clue", "humancitystore1clue", "humancitymansion2clue" ] ]
 
       ],
       "def" : [ "tmx", "humancityflat2clue.json" ]
