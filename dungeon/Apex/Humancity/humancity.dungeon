@@ -4,7 +4,7 @@
     "species" : "human",
     "rules" : [
     ],
-    "anchor" : [ "apexcitybuilding2" ],
+    "anchor" : [ "humancitybuilding2" ],
     "gravity" : 80,
     "maxRadius" : 1000000,
     "maxParts" : 20,
@@ -14,187 +14,187 @@
 
   "parts" : [
     {
-      "name" : "apexcityhouse1",
+      "name" : "humancityhouse1",
       "rules" : [
         [ "maxSpawnCount", [4] ],
-        [ "doNotConnectToPart", [ "apexcityhouse1" ] ]
+        [ "doNotConnectToPart", [ "humancityhouse1" ] ]
 
       ],
-      "def" : [ "tmx", "apexcityhouse1.json" ]
+      "def" : [ "tmx", "humancityhouse1.json" ]
     },
     {
-      "name" : "apexcityhouse2",
+      "name" : "humancityhouse2",
       "rules" : [
         [ "maxSpawnCount", [4] ],
-        [ "doNotConnectToPart", [ "apexcityhouse2" ] ]
+        [ "doNotConnectToPart", [ "humancityhouse2" ] ]
 
       ],
-      "def" : [ "tmx", "apexcityhouse2.json" ]
+      "def" : [ "tmx", "humancityhouse2.json" ]
     },
     {
-      "name" : "apexcityhouse3",
+      "name" : "humancityhouse3",
       "rules" : [
         [ "maxSpawnCount", [4] ],
-        [ "doNotConnectToPart", [ "apexcityhouse3" ] ]
+        [ "doNotConnectToPart", [ "humancityhouse3" ] ]
 
       ],
-      "def" : [ "tmx", "apexcityhouse3.json" ]
+      "def" : [ "tmx", "humancityhouse3.json" ]
     },
     {
-      "name" : "apexcityhouse4",
+      "name" : "humancityhouse4",
       "rules" : [
         [ "maxSpawnCount", [4] ],
-        [ "doNotConnectToPart", [ "apexcityhouse4" ] ]
+        [ "doNotConnectToPart", [ "humancityhouse4" ] ]
 
       ],
-      "def" : [ "tmx", "apexcityhouse4.json" ]
+      "def" : [ "tmx", "humancityhouse4.json" ]
     },
     {
-      "name" : "apexcityhouse5",
+      "name" : "humancityhouse5",
       "rules" : [
         [ "maxSpawnCount", [4] ],
-        [ "doNotConnectToPart", [ "apexcityhouse5" ] ]
+        [ "doNotConnectToPart", [ "humancityhouse5" ] ]
 
       ],
-      "def" : [ "tmx", "apexcityhouse5.json" ]
+      "def" : [ "tmx", "humancityhouse5.json" ]
     },
     {
-      "name" : "apexcitystore1",
+      "name" : "humancitystore1",
       "rules" : [
         [ "maxSpawnCount", [1] ],
-        [ "doNotConnectToPart", [ "apexcitystore1" ] ]
+        [ "doNotConnectToPart", [ "humancitystore1" ] ]
 
       ],
-      "def" : [ "tmx", "apexcitystore1.json" ]
+      "def" : [ "tmx", "humancitystore1.json" ]
     },
     {
-      "name" : "apexcitystore1clue",
+      "name" : "humancitystore1clue",
       "rules" : [
         [ "maxSpawnCount", [1] ],
-        [ "doNotConnectToPart", [ "apexcitystore1clue" ] ],
-        [ "doNotCombineWith", [ "apexcitystore1", "apexcitybuilding3clue", "apexcitybuilding2clue", "apexcitymansion2clue", "apexcityflat2clue" ] ]
+        [ "doNotConnectToPart", [ "humancitystore1clue" ] ],
+        [ "doNotCombineWith", [ "humancitystore1", "humancitybuilding3clue", "humancitybuilding2clue", "humancitymansion1clue", "humancityflat2clue" ] ]
 
       ],
-      "def" : [ "tmx", "apexcitystore1clue.json" ]
+      "def" : [ "tmx", "humancitystore1clue.json" ]
     },
     {
-      "name" : "apexcityoffice1",
+      "name" : "humancityoffice1",
       "rules" : [
         [ "maxSpawnCount", [4] ],
-        [ "doNotConnectToPart", [ "apexcityoffice1" ] ]
+        [ "doNotConnectToPart", [ "humancityoffice1" ] ]
 
       ],
-      "def" : [ "tmx", "apexcityoffice1.json" ]
+      "def" : [ "tmx", "humancityoffice1.json" ]
     },
     {
-      "name" : "apexcitybuilding1",
+      "name" : "humancitybuilding1",
       "rules" : [
         [ "maxSpawnCount", [2] ],
-        [ "doNotConnectToPart", [ "apexcitybuilding1" ] ]
+        [ "doNotConnectToPart", [ "humancitybuilding1" ] ]
 
       ],
-      "def" : [ "tmx", "apexcitybuilding1.json" ]
+      "def" : [ "tmx", "humancitybuilding1.json" ]
     },
     {
-      "name" : "apexcitybuilding2",
+      "name" : "humancitybuilding2",
       "rules" : [
         [ "maxSpawnCount", [1] ],
-        [ "doNotConnectToPart", [ "apexcitybuilding2" ] ]
+        [ "doNotConnectToPart", [ "humancitybuilding2" ] ]
 
       ],
-      "def" : [ "tmx", "apexcitybuilding2.json" ]
+      "def" : [ "tmx", "humancitybuilding2.json" ]
     },
     {
-      "name" : "apexcitybuilding2clue",
+      "name" : "humancitybuilding2clue",
       "rules" : [
         [ "maxSpawnCount", [1] ],
-        [ "doNotConnectToPart", [ "apexcitybuilding2clue" ] ],
-        [ "doNotCombineWith", [ "apexcitybuilding2", "apexcitybuilding3clue", "apexcitystore1clue", "apexcitymansion2clue", "apexcityflat2clue" ] ]
+        [ "doNotConnectToPart", [ "humancitybuilding2clue" ] ],
+        [ "doNotCombineWith", [ "humancitybuilding2", "humancitybuilding3clue", "humancitystore1clue", "humancitymansion1clue", "humancityflat2clue" ] ]
 
       ],
-      "def" : [ "tmx", "apexcitybuilding2clue.json" ]
+      "def" : [ "tmx", "humancitybuilding2clue.json" ]
     },
     {
-      "name" : "apexcitybuilding3",
+      "name" : "humancitybuilding3",
       "rules" : [
         [ "maxSpawnCount", [1] ],
-        [ "doNotConnectToPart", [ "apexcitybuilding3" ] ]
+        [ "doNotConnectToPart", [ "humancitybuilding3" ] ]
 
       ],
-      "def" : [ "tmx", "apexcitybuilding3.json" ]
+      "def" : [ "tmx", "humancitybuilding3.json" ]
     },
     {
-      "name" : "apexcitybuilding3clue",
+      "name" : "humancitybuilding3clue",
       "rules" : [
         [ "maxSpawnCount", [1] ],
-        [ "doNotConnectToPart", [ "apexcitybuilding3clue" ] ],
-        [ "doNotCombineWith", [ "apexcitybuilding3", "apexcitybuilding2clue", "apexcitystore1clue", "apexcitymansion2clue", "apexcityflat2clue" ] ]
+        [ "doNotConnectToPart", [ "humancitybuilding3clue" ] ],
+        [ "doNotCombineWith", [ "humancitybuilding3", "humancitybuilding2clue", "humancitystore1clue", "humancitymansion1clue", "humancityflat2clue" ] ]
 
       ],
-      "def" : [ "tmx", "apexcitybuilding3clue.json" ]
+      "def" : [ "tmx", "humancitybuilding3clue.json" ]
     },
     {
-      "name" : "apexcitymansion2",
+      "name" : "humancitymansion2",
       "rules" : [
         [ "maxSpawnCount", [1] ],
-        [ "doNotConnectToPart", [ "apexcitymansion2" ] ]
+        [ "doNotConnectToPart", [ "humancitymansion2" ] ]
 
       ],
-      "def" : [ "tmx", "apexcitymansion2.json" ]
+      "def" : [ "tmx", "humancitymansion2.json" ]
     },
     {
-      "name" : "apexcitymansion2clue",
+      "name" : "humancitymansion1clue",
       "rules" : [
         [ "maxSpawnCount", [1] ],
-        [ "doNotConnectToPart", [ "apexcitymansion2clue" ] ],
-        [ "doNotCombineWith", [ "apexcitymansion2", "apexcitybuilding2clue", "apexcitybuilding3clue", "apexcitystore1clue", "apexcityflat2clue" ] ]
+        [ "doNotConnectToPart", [ "humancitymansion1clue" ] ],
+        [ "doNotCombineWith", [ "humancitymansion2", "humancitybuilding2clue", "humancitybuilding3clue", "humancitystore1clue", "humancityflat2clue" ] ]
 
       ],
-      "def" : [ "tmx", "apexcitymansion2clue.json" ]
+      "def" : [ "tmx", "humancitymansion1clue.json" ]
     },
     {
-      "name" : "apexcityflat1",
+      "name" : "humancityflat1",
       "rules" : [
         [ "maxSpawnCount", [3] ],
-        [ "doNotConnectToPart", [ "apexcityflat1" ] ]
+        [ "doNotConnectToPart", [ "humancityflat1" ] ]
 
       ],
-      "def" : [ "tmx", "apexcityflat1.json" ]
+      "def" : [ "tmx", "humancityflat1.json" ]
     },
     {
-      "name" : "apexcityflat2",
+      "name" : "humancityflat2",
       "rules" : [
         [ "maxSpawnCount", [3] ],
-        [ "doNotConnectToPart", [ "apexcityflat2" ] ]
+        [ "doNotConnectToPart", [ "humancityflat2" ] ]
 
       ],
-      "def" : [ "tmx", "apexcityflat2.json" ]
+      "def" : [ "tmx", "humancityflat2.json" ]
     },
     {
-      "name" : "apexcityflat2clue",
+      "name" : "humancityflat2clue",
       "rules" : [
         [ "maxSpawnCount", [1] ],
-        [ "doNotConnectToPart", [ "apexcityflat2clue" ] ],
-        [ "doNotCombineWith", [ "apexcityflat2", "apexcitybuilding2clue", "apexcitybuilding3clue", "apexcitystore1clue", "apexcitymansion2clue" ] ]
+        [ "doNotConnectToPart", [ "humancityflat2clue" ] ],
+        [ "doNotCombineWith", [ "humancityflat2", "humancitybuilding2clue", "humancitybuilding3clue", "humancitystore1clue", "humancitymansion1clue" ] ]
 
       ],
-      "def" : [ "tmx", "apexcityflat2clue.json" ]
+      "def" : [ "tmx", "humancityflat2clue.json" ]
     },
     {
-      "name" : "apexendleft1",
+      "name" : "humanendleft1",
       "rules" : [
         [ "ignorePartMaximumRule" ]
       ],
-      "def" : [ "tmx", [ "apexendleft1.json" ] ],
+      "def" : [ "tmx", [ "humanendleft1.json" ] ],
       "chance" : 0
     },
 
     {
-      "name" : "apexendright1",
+      "name" : "humanendright1",
       "rules" : [
         [ "ignorePartMaximumRule" ]
       ],
-      "def" : [ "tmx", [ "apexendright1.json" ] ],
+      "def" : [ "tmx", [ "humanendright1.json" ] ],
       "chance" : 0
     }
   ]
