@@ -932,7 +932,7 @@
                  "name":"",
                  "properties":
                     {
-                     "npc":"apex",
+                     "npc":"human",
                      "typeName":"miniknogvillageguard"
                     },
                  "rotation":0,
@@ -1038,7 +1038,7 @@
                  "name":"",
                  "properties":
                     {
-                     "npc":"apex",
+                     "npc":"human",
                      "typeName":"villager"
                     },
                  "rotation":0,
@@ -1054,7 +1054,7 @@
                  "name":"",
                  "properties":
                     {
-                     "npc":"apex",
+                     "npc":"human",
                      "typeName":"villager"
                     },
                  "rotation":0,
@@ -1070,7 +1070,7 @@
                  "name":"",
                  "properties":
                     {
-                     "npc":"apex",
+                     "npc":"human",
                      "typeName":"villager"
                     },
                  "rotation":0,
@@ -1086,7 +1086,7 @@
                  "name":"",
                  "properties":
                     {
-                     "npc":"apex",
+                     "npc":"human",
                      "typeName":"villager"
                     },
                  "rotation":0,
