@@ -10,7 +10,7 @@
           "primaryRegion" : ["populated"],
           "secondaryRegions" : ["garden"],
           "dungeonCountRange" : [2, 2],
-          "dungeons" : [[1.0, "naturalcave"], [1.0, "gardengate"]]
+          "dungeons" : [[1.0, "humancity"], [1.0, "gardengate"]]
         }
       }
     }},
