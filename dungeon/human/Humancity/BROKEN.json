@@ -367,139 +367,139 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/..\/..\/tilesets\/packed\/materials.json"
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/materials.json"
         }, 
         {
          "firstgid":191,
-         "source":"..\/..\/..\/tilesets\/packed\/miscellaneous.json"
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/miscellaneous.json"
         }, 
         {
-         "firstgid":210,
-         "source":"..\/..\/..\/tilesets\/packed\/liquids.json"
+         "firstgid":211,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/liquids.json"
         }, 
         {
-         "firstgid":238,
-         "source":"..\/..\/..\/tilesets\/packed\/supports.json"
+         "firstgid":239,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/supports.json"
         }, 
         {
-         "firstgid":274,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/generic.json"
+         "firstgid":275,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-race\/generic.json"
         }, 
         {
-         "firstgid":1998,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/ancient.json"
+         "firstgid":2040,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-race\/ancient.json"
         }, 
         {
-         "firstgid":2114,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/apex.json"
+         "firstgid":2157,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-race\/apex.json"
         }, 
         {
-         "firstgid":2480,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/avian.json"
+         "firstgid":2525,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-race\/avian.json"
         }, 
         {
-         "firstgid":2781,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/floran.json"
+         "firstgid":2829,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-race\/floran.json"
         }, 
         {
-         "firstgid":2973,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/glitch.json"
+         "firstgid":3024,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-race\/glitch.json"
         }, 
         {
-         "firstgid":3197,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/human.json"
+         "firstgid":3249,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-race\/human.json"
         }, 
         {
-         "firstgid":3467,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/hylotl.json"
+         "firstgid":3528,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-race\/hylotl.json"
         }, 
         {
-         "firstgid":3697,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/novakid.json"
+         "firstgid":3759,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-race\/novakid.json"
         }, 
         {
-         "firstgid":3722,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/crafting.json"
+         "firstgid":3785,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-category\/crafting.json"
         }, 
         {
-         "firstgid":3797,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/decorative.json"
+         "firstgid":3861,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-category\/decorative.json"
         }, 
         {
-         "firstgid":5094,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/door.json"
+         "firstgid":5162,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-category\/door.json"
         }, 
         {
-         "firstgid":5202,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/farmable.json"
+         "firstgid":5278,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-category\/farmable.json"
         }, 
         {
-         "firstgid":5277,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/furniture.json"
+         "firstgid":5353,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-category\/furniture.json"
         }, 
         {
-         "firstgid":5602,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/light.json"
+         "firstgid":5679,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-category\/light.json"
         }, 
         {
-         "firstgid":6009,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/other.json"
+         "firstgid":6096,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-category\/other.json"
         }, 
         {
-         "firstgid":6301,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/pot.json"
+         "firstgid":6392,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-category\/pot.json"
         }, 
         {
-         "firstgid":6598,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/sapling.json"
+         "firstgid":6689,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-category\/sapling.json"
         }, 
         {
-         "firstgid":6599,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/spawner.json"
+         "firstgid":6690,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-category\/spawner.json"
         }, 
         {
-         "firstgid":6614,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/storage.json"
+         "firstgid":6705,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-category\/storage.json"
         }, 
         {
-         "firstgid":6830,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/teleporter.json"
+         "firstgid":6923,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-category\/teleporter.json"
         }, 
         {
-         "firstgid":6861,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/tools.json"
+         "firstgid":6955,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-category\/tools.json"
         }, 
         {
-         "firstgid":6866,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/trap.json"
+         "firstgid":6960,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-category\/trap.json"
         }, 
         {
-         "firstgid":7068,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/wire.json"
+         "firstgid":7164,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-category\/wire.json"
         }, 
         {
-         "firstgid":7253,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-type\/container.json"
+         "firstgid":7349,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-type\/container.json"
         }, 
         {
-         "firstgid":7519,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-type\/farmable.json"
+         "firstgid":7618,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-type\/farmable.json"
         }, 
         {
-         "firstgid":7595,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-type\/loungeable.json"
+         "firstgid":7696,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-type\/loungeable.json"
         }, 
         {
-         "firstgid":7850,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-type\/noisy.json"
+         "firstgid":7952,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-type\/noisy.json"
         }, 
         {
-         "firstgid":7891,
-         "source":"..\/..\/..\/tilesets\/packed\/objects-by-type\/teleporter.json"
+         "firstgid":7993,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/objects-by-type\/teleporter.json"
         }, 
         {
-         "firstgid":7915,
-         "source":"..\/..\/..\/tilesets\/packed\/huge-objects.json"
+         "firstgid":8018,
+         "source":"E:\/SteamLibrary\/steamapps\/common\/Starbound\/unpackedAssets\/tilesets\/packed\/huge-objects.json"
         }],
  "tilewidth":8,
  "version":1,
