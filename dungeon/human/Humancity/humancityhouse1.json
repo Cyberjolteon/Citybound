@@ -16,7 +16,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJzt1UEKgzAURVFndUFdoJvomrooBxahoUGMxCQ\/vl\/vgTeRIrkodRgAAAAAAAAA4J7GzGsePDM2JuZNTuvRPKlt9dTcqtVDc+tW5WarVsVm61bF5lXq21I7VeF8r0bz1BvM350V9yq+y6u93lLbXsVm61615h69Ss29elWarXpVxb3zwaaMeejdKvkOeUfzPdDs2zL8\/k+nRgv3W8xOnfYQH7113uKj9397LVzd1LtXudnS1W09W2NXd\/ZsDe7SGSs9a8nvFJ19JkrPrpTns8O3Dx0WUyY=",
+         "data":"eJzt1UEKgzAURVEd1QV1gW6ia+qmHBShtkEaiUl+fL+5B95EHOSi6DAAAAAAAAAAQJ+mxGse3BM2ReZNSuvRPClt9dRcq9VDc+1W5WarVsVm61bF5lXs31I6Vdv5HpXmqXezvHdW2Kv4Lq9+9eba9yo2W\/eqNbfoVWpu1avSbNWrKuxdDjYnzEPvXs5\/yDua+0Czc+P3ezpX2uf7PJqdOuomPnrLPMVH7\/\/2Wri6qXWvcrOlq9tatoau7mzZuumlM5R71pz7FJ19JkrPLpfns8O3F1oUUTg=",
          "encoding":"base64",
          "height":60,
          "name":"front",
@@ -47,7 +47,7 @@
          "name":"objects",
          "objects":[
                 {
-                 "gid":5144,
+                 "gid":5296,
                  "height":40,
                  "id":903,
                  "name":"",
@@ -63,7 +63,7 @@
                  "y":352
                 }, 
                 {
-                 "gid":5144,
+                 "gid":5296,
                  "height":40,
                  "id":904,
                  "name":"",
@@ -79,7 +79,7 @@
                  "y":352
                 }, 
                 {
-                 "gid":2213,
+                 "gid":2267,
                  "height":40,
                  "id":905,
                  "name":"",
@@ -95,7 +95,7 @@
                  "y":296
                 }, 
                 {
-                 "gid":2147485861,
+                 "gid":2147485915,
                  "height":40,
                  "id":906,
                  "name":"",
@@ -111,7 +111,7 @@
                  "y":296
                 }, 
                 {
-                 "gid":2338,
+                 "gid":2392,
                  "height":24,
                  "id":907,
                  "name":"",
@@ -127,7 +127,7 @@
                  "y":304
                 }, 
                 {
-                 "gid":2356,
+                 "gid":2410,
                  "height":24,
                  "id":912,
                  "name":"",
@@ -143,7 +143,7 @@
                  "y":352
                 }, 
                 {
-                 "gid":2147486015,
+                 "gid":2147486069,
                  "height":32,
                  "id":915,
                  "name":"",
@@ -159,7 +159,7 @@
                  "y":352
                 }, 
                 {
-                 "gid":2390,
+                 "gid":2444,
                  "height":24,
                  "id":916,
                  "name":"",
@@ -175,7 +175,7 @@
                  "y":304
                 }, 
                 {
-                 "gid":2303,
+                 "gid":2357,
                  "height":16,
                  "id":917,
                  "name":"",
@@ -191,13 +191,13 @@
                  "y":272
                 }, 
                 {
-                 "gid":2147485859,
+                 "gid":2147485913,
                  "height":16,
                  "id":921,
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\":[\"apexcityTreasure\"]}"
+                     "parameters":"{\"treasurePools\":[\"cbhumancityTreasure\"]}"
                     },
                  "rotation":0,
                  "type":"",
@@ -207,23 +207,7 @@
                  "y":352
                 }, 
                 {
-                 "gid":2237,
-                 "height":16,
-                 "id":923,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":224,
-                 "y":280
-                }, 
-                {
-                 "gid":2245,
+                 "gid":2299,
                  "height":16,
                  "id":924,
                  "name":"",
@@ -239,7 +223,7 @@
                  "y":312
                 }, 
                 {
-                 "gid":5818,
+                 "gid":5987,
                  "height":16,
                  "id":925,
                  "name":"",
@@ -513,131 +497,131 @@
          "source":"..\/..\/..\/tilesets\/packed\/miscellaneous.json"
         }, 
         {
-         "firstgid":210,
+         "firstgid":211,
          "source":"..\/..\/..\/tilesets\/packed\/liquids.json"
         }, 
         {
-         "firstgid":238,
+         "firstgid":239,
          "source":"..\/..\/..\/tilesets\/packed\/supports.json"
         }, 
         {
-         "firstgid":274,
+         "firstgid":275,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/generic.json"
         }, 
         {
-         "firstgid":1998,
+         "firstgid":2051,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/ancient.json"
         }, 
         {
-         "firstgid":2114,
+         "firstgid":2168,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/apex.json"
         }, 
         {
-         "firstgid":2480,
+         "firstgid":2536,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/avian.json"
         }, 
         {
-         "firstgid":2781,
+         "firstgid":2840,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/floran.json"
         }, 
         {
-         "firstgid":2973,
+         "firstgid":3035,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/glitch.json"
         }, 
         {
-         "firstgid":3197,
+         "firstgid":3261,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/human.json"
         }, 
         {
-         "firstgid":3467,
+         "firstgid":3540,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/hylotl.json"
         }, 
         {
-         "firstgid":3697,
+         "firstgid":3771,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/novakid.json"
         }, 
         {
-         "firstgid":3722,
+         "firstgid":3834,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/crafting.json"
         }, 
         {
-         "firstgid":3797,
+         "firstgid":3913,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/decorative.json"
         }, 
         {
-         "firstgid":5094,
+         "firstgid":5246,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/door.json"
         }, 
         {
-         "firstgid":5202,
+         "firstgid":5363,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/farmable.json"
         }, 
         {
-         "firstgid":5277,
+         "firstgid":5438,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/furniture.json"
         }, 
         {
-         "firstgid":5602,
+         "firstgid":5771,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/light.json"
         }, 
         {
-         "firstgid":6009,
+         "firstgid":6191,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/other.json"
         }, 
         {
-         "firstgid":6301,
+         "firstgid":6487,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/pot.json"
         }, 
         {
-         "firstgid":6598,
+         "firstgid":6784,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/sapling.json"
         }, 
         {
-         "firstgid":6599,
+         "firstgid":6785,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/spawner.json"
         }, 
         {
-         "firstgid":6614,
+         "firstgid":6800,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/storage.json"
         }, 
         {
-         "firstgid":6830,
+         "firstgid":7021,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/teleporter.json"
         }, 
         {
-         "firstgid":6861,
+         "firstgid":7053,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/tools.json"
         }, 
         {
-         "firstgid":6866,
+         "firstgid":7058,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/trap.json"
         }, 
         {
-         "firstgid":7068,
+         "firstgid":7262,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/wire.json"
         }, 
         {
-         "firstgid":7253,
+         "firstgid":7447,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-type\/container.json"
         }, 
         {
-         "firstgid":7519,
+         "firstgid":7719,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-type\/farmable.json"
         }, 
         {
-         "firstgid":7595,
+         "firstgid":7797,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-type\/loungeable.json"
         }, 
         {
-         "firstgid":7850,
+         "firstgid":8062,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-type\/noisy.json"
         }, 
         {
-         "firstgid":7891,
+         "firstgid":8103,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-type\/teleporter.json"
         }, 
         {
-         "firstgid":7915,
+         "firstgid":8128,
          "source":"..\/..\/..\/tilesets\/packed\/huge-objects.json"
         }],
  "tilewidth":8,

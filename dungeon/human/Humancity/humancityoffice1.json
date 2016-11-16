@@ -16,7 +16,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJzt2s0JwzAMhmHf2hE6SAfMEpmpY6XoIDAmJJVr2Z9+HtAtEL+Yxgm0lJRS8u8tHMukrZabe1stNv\/barGZPDvHKl7\/68fx1Cu53ippr3XZ69uq3n3y\/Vjk3uNm+DzaBsxe1jzr2\/09Lq7l3hF7g9JLrppHQeol2s1ovUSzGbGXaDWj9hKNZoTeiOfRGd5fr+dRLdLvN9LzOdL5G+n9akYrQeiNeB7l95EOpF4S6fnMIp2\/LNL7FcvvIz\/n0RlP30d3Zr1vIchWn7LVrkcz0v8zbAOH712vZ7S2F21G+4BP9vrt1bC6aXYvcrOm1W0zW2urO2e2siidtd619lyHSLonSHvXy\/Lak21f\/X2L0A==",
+         "data":"eJzt2l0KwjAQRtH0SZfgQlxgN9E1uS0ZcCDUWp2YSb75OTBvheYSbFqwlJRS8u8uHMukrZabW1stNv\/barGZXBvHKl7\/7cfx1Cu53ippr3XZ69us3m3w\/Vjo3uV8+DxaO8xW5jzr3\/Z3+Xwt9\/bYG5hectLcC1QvUW6G6yWKzZC9RKkZtpcoNEP0RjyPjrz21+15VIv0+430fI50\/kZ6vxrQSiB6I55H+X2kAqqXRHo+s0jnL4v0fsXy+8jPeXTE0ffRV4PetyBkq0\/ZatZlN9L\/M6wdh+9dr6e3fS\/a9PYAn+z126thdtPoXuRmTbPbRrbWZneObGVROmuta225DpF0T5D2rpXltSfbnqLSVEA=",
          "encoding":"base64",
          "height":60,
          "name":"front",
@@ -47,7 +47,7 @@
          "name":"objects",
          "objects":[
                 {
-                 "gid":5144,
+                 "gid":5296,
                  "height":40,
                  "id":903,
                  "name":"",
@@ -63,23 +63,7 @@
                  "y":136
                 }, 
                 {
-                 "gid":2237,
-                 "height":16,
-                 "id":923,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":240,
-                 "y":280
-                }, 
-                {
-                 "gid":5818,
+                 "gid":5987,
                  "height":16,
                  "id":925,
                  "name":"",
@@ -95,7 +79,7 @@
                  "y":160
                 }, 
                 {
-                 "gid":5144,
+                 "gid":5296,
                  "height":40,
                  "id":926,
                  "name":"",
@@ -111,7 +95,7 @@
                  "y":192
                 }, 
                 {
-                 "gid":5144,
+                 "gid":5296,
                  "height":40,
                  "id":927,
                  "name":"",
@@ -127,7 +111,7 @@
                  "y":248
                 }, 
                 {
-                 "gid":5144,
+                 "gid":5296,
                  "height":40,
                  "id":928,
                  "name":"",
@@ -143,7 +127,7 @@
                  "y":304
                 }, 
                 {
-                 "gid":5144,
+                 "gid":5296,
                  "height":40,
                  "id":930,
                  "name":"",
@@ -159,7 +143,7 @@
                  "y":360
                 }, 
                 {
-                 "gid":5144,
+                 "gid":5296,
                  "height":40,
                  "id":931,
                  "name":"",
@@ -175,7 +159,7 @@
                  "y":360
                 }, 
                 {
-                 "gid":2147487998,
+                 "gid":2147488114,
                  "height":16,
                  "id":932,
                  "name":"",
@@ -191,7 +175,7 @@
                  "y":136
                 }, 
                 {
-                 "gid":5818,
+                 "gid":5987,
                  "height":16,
                  "id":933,
                  "name":"",
@@ -207,7 +191,7 @@
                  "y":88
                 }, 
                 {
-                 "gid":3410,
+                 "gid":3474,
                  "height":16,
                  "id":934,
                  "name":"",
@@ -223,13 +207,13 @@
                  "y":88
                 }, 
                 {
-                 "gid":2399,
+                 "gid":2453,
                  "height":24,
                  "id":935,
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\":[\"apexcityTreasure\"]}"
+                     "parameters":"{\"treasurePools\":[\"cbhumancityTreasure\"]}"
                     },
                  "rotation":0,
                  "type":"",
@@ -239,7 +223,7 @@
                  "y":192
                 }, 
                 {
-                 "gid":2284,
+                 "gid":2338,
                  "height":24,
                  "id":936,
                  "name":"",
@@ -255,13 +239,13 @@
                  "y":192
                 }, 
                 {
-                 "gid":2399,
+                 "gid":2453,
                  "height":24,
                  "id":937,
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\":[\"apexcityTreasure\"]}"
+                     "parameters":"{\"treasurePools\":[\"cbhumancityTreasure\"]}"
                     },
                  "rotation":0,
                  "type":"",
@@ -271,7 +255,7 @@
                  "y":192
                 }, 
                 {
-                 "gid":2284,
+                 "gid":2338,
                  "height":24,
                  "id":938,
                  "name":"",
@@ -287,13 +271,13 @@
                  "y":192
                 }, 
                 {
-                 "gid":2399,
+                 "gid":2453,
                  "height":24,
                  "id":939,
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\":[\"apexcityTreasure\"]}"
+                     "parameters":"{\"treasurePools\":[\"cbhumancityTreasure\"]}"
                     },
                  "rotation":0,
                  "type":"",
@@ -303,7 +287,7 @@
                  "y":248
                 }, 
                 {
-                 "gid":2284,
+                 "gid":2338,
                  "height":24,
                  "id":940,
                  "name":"",
@@ -319,13 +303,13 @@
                  "y":248
                 }, 
                 {
-                 "gid":2399,
+                 "gid":2453,
                  "height":24,
                  "id":941,
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\":[\"apexcityTreasure\"]}"
+                     "parameters":"{\"treasurePools\":[\"cbhumancityTreasure\"]}"
                     },
                  "rotation":0,
                  "type":"",
@@ -335,7 +319,7 @@
                  "y":248
                 }, 
                 {
-                 "gid":2284,
+                 "gid":2338,
                  "height":24,
                  "id":942,
                  "name":"",
@@ -351,13 +335,13 @@
                  "y":248
                 }, 
                 {
-                 "gid":2399,
+                 "gid":2453,
                  "height":24,
                  "id":943,
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\":[\"apexcityTreasure\"]}"
+                     "parameters":"{\"treasurePools\":[\"cbhumancityTreasure\"]}"
                     },
                  "rotation":0,
                  "type":"",
@@ -367,7 +351,7 @@
                  "y":304
                 }, 
                 {
-                 "gid":2284,
+                 "gid":2338,
                  "height":24,
                  "id":944,
                  "name":"",
@@ -383,13 +367,13 @@
                  "y":304
                 }, 
                 {
-                 "gid":2399,
+                 "gid":2453,
                  "height":24,
                  "id":945,
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\":[\"apexcityTreasure\"]}"
+                     "parameters":"{\"treasurePools\":[\"cbhumancityTreasure\"]}"
                     },
                  "rotation":0,
                  "type":"",
@@ -399,7 +383,7 @@
                  "y":304
                 }, 
                 {
-                 "gid":2284,
+                 "gid":2338,
                  "height":24,
                  "id":946,
                  "name":"",
@@ -415,103 +399,7 @@
                  "y":304
                 }, 
                 {
-                 "gid":2394,
-                 "height":32,
-                 "id":947,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":24,
-                 "x":232,
-                 "y":352
-                }, 
-                {
-                 "gid":2394,
-                 "height":32,
-                 "id":948,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":24,
-                 "x":264,
-                 "y":344
-                }, 
-                {
-                 "gid":2394,
-                 "height":32,
-                 "id":949,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":24,
-                 "x":296,
-                 "y":352
-                }, 
-                {
-                 "gid":2394,
-                 "height":32,
-                 "id":950,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":24,
-                 "x":320,
-                 "y":352
-                }, 
-                {
-                 "gid":2214,
-                 "height":16,
-                 "id":951,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":304,
-                 "y":224
-                }, 
-                {
-                 "gid":2162,
-                 "height":24,
-                 "id":952,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":32,
-                 "x":240,
-                 "y":168
-                }, 
-                {
-                 "gid":5818,
+                 "gid":5987,
                  "height":16,
                  "id":953,
                  "name":"",
@@ -527,7 +415,7 @@
                  "y":216
                 }, 
                 {
-                 "gid":5818,
+                 "gid":5987,
                  "height":16,
                  "id":954,
                  "name":"",
@@ -543,7 +431,7 @@
                  "y":272
                 }, 
                 {
-                 "gid":5775,
+                 "gid":5944,
                  "height":8,
                  "id":958,
                  "name":"",
@@ -559,7 +447,7 @@
                  "y":152
                 }, 
                 {
-                 "gid":5775,
+                 "gid":5944,
                  "height":8,
                  "id":959,
                  "name":"",
@@ -575,7 +463,7 @@
                  "y":208
                 }, 
                 {
-                 "gid":5775,
+                 "gid":5944,
                  "height":8,
                  "id":960,
                  "name":"",
@@ -591,7 +479,7 @@
                  "y":264
                 }, 
                 {
-                 "gid":5777,
+                 "gid":5946,
                  "height":24,
                  "id":965,
                  "name":"",
@@ -607,7 +495,7 @@
                  "y":176
                 }, 
                 {
-                 "gid":5777,
+                 "gid":5946,
                  "height":24,
                  "id":967,
                  "name":"",
@@ -623,7 +511,7 @@
                  "y":288
                 }, 
                 {
-                 "gid":5775,
+                 "gid":5944,
                  "height":8,
                  "id":971,
                  "name":"",
@@ -639,7 +527,7 @@
                  "y":320
                 }, 
                 {
-                 "gid":5775,
+                 "gid":5944,
                  "height":8,
                  "id":972,
                  "name":"",
@@ -735,7 +623,7 @@
                  "properties":
                     {
                      "npc":"human",
-                     "typeName":"miniknogvillageguard"
+                     "typeName":"friendlyguard"
                     },
                  "rotation":0,
                  "type":"",
@@ -961,131 +849,131 @@
          "source":"..\/..\/..\/tilesets\/packed\/miscellaneous.json"
         }, 
         {
-         "firstgid":210,
+         "firstgid":211,
          "source":"..\/..\/..\/tilesets\/packed\/liquids.json"
         }, 
         {
-         "firstgid":238,
+         "firstgid":239,
          "source":"..\/..\/..\/tilesets\/packed\/supports.json"
         }, 
         {
-         "firstgid":274,
+         "firstgid":275,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/generic.json"
         }, 
         {
-         "firstgid":1998,
+         "firstgid":2051,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/ancient.json"
         }, 
         {
-         "firstgid":2114,
+         "firstgid":2168,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/apex.json"
         }, 
         {
-         "firstgid":2480,
+         "firstgid":2536,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/avian.json"
         }, 
         {
-         "firstgid":2781,
+         "firstgid":2840,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/floran.json"
         }, 
         {
-         "firstgid":2973,
+         "firstgid":3035,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/glitch.json"
         }, 
         {
-         "firstgid":3197,
+         "firstgid":3261,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/human.json"
         }, 
         {
-         "firstgid":3467,
+         "firstgid":3540,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/hylotl.json"
         }, 
         {
-         "firstgid":3697,
+         "firstgid":3771,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/novakid.json"
         }, 
         {
-         "firstgid":3722,
+         "firstgid":3834,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/crafting.json"
         }, 
         {
-         "firstgid":3797,
+         "firstgid":3913,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/decorative.json"
         }, 
         {
-         "firstgid":5094,
+         "firstgid":5246,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/door.json"
         }, 
         {
-         "firstgid":5202,
+         "firstgid":5363,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/farmable.json"
         }, 
         {
-         "firstgid":5277,
+         "firstgid":5438,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/furniture.json"
         }, 
         {
-         "firstgid":5602,
+         "firstgid":5771,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/light.json"
         }, 
         {
-         "firstgid":6009,
+         "firstgid":6191,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/other.json"
         }, 
         {
-         "firstgid":6301,
+         "firstgid":6487,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/pot.json"
         }, 
         {
-         "firstgid":6598,
+         "firstgid":6784,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/sapling.json"
         }, 
         {
-         "firstgid":6599,
+         "firstgid":6785,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/spawner.json"
         }, 
         {
-         "firstgid":6614,
+         "firstgid":6800,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/storage.json"
         }, 
         {
-         "firstgid":6830,
+         "firstgid":7021,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/teleporter.json"
         }, 
         {
-         "firstgid":6861,
+         "firstgid":7053,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/tools.json"
         }, 
         {
-         "firstgid":6866,
+         "firstgid":7058,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/trap.json"
         }, 
         {
-         "firstgid":7068,
+         "firstgid":7262,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/wire.json"
         }, 
         {
-         "firstgid":7253,
+         "firstgid":7447,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-type\/container.json"
         }, 
         {
-         "firstgid":7519,
+         "firstgid":7719,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-type\/farmable.json"
         }, 
         {
-         "firstgid":7595,
+         "firstgid":7797,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-type\/loungeable.json"
         }, 
         {
-         "firstgid":7850,
+         "firstgid":8062,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-type\/noisy.json"
         }, 
         {
-         "firstgid":7891,
+         "firstgid":8103,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-type\/teleporter.json"
         }, 
         {
-         "firstgid":7915,
+         "firstgid":8128,
          "source":"..\/..\/..\/tilesets\/packed\/huge-objects.json"
         }],
  "tilewidth":8,

@@ -16,7 +16,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJztmMENwjAMRXODgZiFeboErMOxQ\/UAikQkE6VuaieOY\/ykf2laO0+htUQIjuM4juM4jtOPV0Xgvfkz2Bo3PaD02dvf7WQ0+FKeobjWOPeAUr+V65FzDyi1W7pizj2g1G3tuueshR6u0DkEXb69XFO0cm0c7aR9PpiZ0ZfKTL4tcF\/baPblvKdYTfcdC\/wOLyeyVUS7L4UNWbPoG8Gc799ooYVvZM\/Zqm+k5GzZN5I7W\/eNJGep79U7CwZ1HsX84zwqIX2+I8FmkzXc1SbuqpM4q9L3c2Em\/T+XX0\/1j+Zib1L\/tJ8nI0v49YVrcB6NcoZ9JX3z3hLk\/aR9S3ugchmU3JdSYwWB16367gVjZaamRw2lM6MGw33n9j3Ckm8tFnwpzOrLgerbKpKuFH8pX2m47xXlPg1wf2ejz43DzHt3bPAB7nm\/Jg==",
+         "data":"eJztmFEOgyAMhvFpO9DOsvN4ie06e\/RSPiwkY0OCFVsKpeuX\/C+itF9QSHTOMAzDMAzDMPh4FSS+N30GGqOGA0ydvf5uJyPBF\/MMxrXEmQPM\/LVcj5w5wMxd0xVy5gAzb23XPWcpcLjGzs7J8uVyDZHKtXKkE\/p8EDOiL5aRfGtgvrqR7Ev5TqE5zbcv8T48n8haEOm+GFZgTKOvB3K+fyKFGr6ePWetvp6cs2ZfT+qs3dcTnJvtV1MSAOx55POP51GO5uvbEehs0oa56sRchTL99s+ZmPB\/Lr3+3Z8PzkV2PvVDP09CZrf1jcc251Ev56huU9+kdhOSes19Mz1guXRK6ouZY4kSX9fquxeIhZiSGiXk1gwbCPMd2\/cITb6laPDFMKovBaxvrbR0xfi38m0N9bvC3CcB6nvWe90ojNy7oYM3+KWzWw==",
          "encoding":"base64",
          "height":60,
          "name":"front",
@@ -47,7 +47,7 @@
          "name":"objects",
          "objects":[
                 {
-                 "gid":5144,
+                 "gid":5296,
                  "height":40,
                  "id":975,
                  "name":"",
@@ -79,7 +79,7 @@
                  "y":264
                 }, 
                 {
-                 "gid":2317,
+                 "gid":2371,
                  "height":24,
                  "id":983,
                  "name":"",
@@ -95,7 +95,7 @@
                  "y":192
                 }, 
                 {
-                 "gid":2183,
+                 "gid":2237,
                  "height":32,
                  "id":986,
                  "name":"",
@@ -111,7 +111,7 @@
                  "y":216
                 }, 
                 {
-                 "gid":2245,
+                 "gid":2299,
                  "height":16,
                  "id":987,
                  "name":"",
@@ -127,7 +127,7 @@
                  "y":168
                 }, 
                 {
-                 "gid":2183,
+                 "gid":2237,
                  "height":32,
                  "id":990,
                  "name":"",
@@ -143,7 +143,7 @@
                  "y":272
                 }, 
                 {
-                 "gid":2147485986,
+                 "gid":2147486040,
                  "height":24,
                  "id":992,
                  "name":"",
@@ -159,55 +159,7 @@
                  "y":216
                 }, 
                 {
-                 "gid":2223,
-                 "height":32,
-                 "id":999,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":24,
-                 "x":200,
-                 "y":312
-                }, 
-                {
-                 "gid":2214,
-                 "height":16,
-                 "id":1000,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":208,
-                 "y":248
-                }, 
-                {
-                 "gid":2237,
-                 "height":16,
-                 "id":1011,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":256,
-                 "y":304
-                }, 
-                {
-                 "gid":2399,
+                 "gid":2453,
                  "height":24,
                  "id":1012,
                  "name":"",
@@ -223,7 +175,7 @@
                  "y":216
                 }, 
                 {
-                 "gid":2284,
+                 "gid":2338,
                  "height":24,
                  "id":1015,
                  "name":"",
@@ -239,7 +191,7 @@
                  "y":216
                 }, 
                 {
-                 "gid":7124,
+                 "gid":7318,
                  "height":4,
                  "id":1025,
                  "name":"",
@@ -255,7 +207,7 @@
                  "y":216
                 }, 
                 {
-                 "gid":4350,
+                 "gid":4466,
                  "height":16,
                  "id":1026,
                  "name":"",
@@ -271,7 +223,7 @@
                  "y":272
                 }, 
                 {
-                 "gid":5144,
+                 "gid":5296,
                  "height":40,
                  "id":1030,
                  "name":"",
@@ -287,7 +239,7 @@
                  "y":328
                 }, 
                 {
-                 "gid":2147487998,
+                 "gid":2147488114,
                  "height":16,
                  "id":1031,
                  "name":"",
@@ -303,7 +255,7 @@
                  "y":272
                 }, 
                 {
-                 "gid":5144,
+                 "gid":5296,
                  "height":40,
                  "id":1033,
                  "name":"",
@@ -319,7 +271,7 @@
                  "y":216
                 }, 
                 {
-                 "gid":4350,
+                 "gid":4466,
                  "height":16,
                  "id":1034,
                  "name":"",
@@ -335,7 +287,7 @@
                  "y":216
                 }, 
                 {
-                 "gid":5959,
+                 "gid":6128,
                  "height":56,
                  "id":1035,
                  "name":"",
@@ -351,7 +303,7 @@
                  "y":360
                 }, 
                 {
-                 "gid":6489,
+                 "gid":6675,
                  "height":12,
                  "id":1036,
                  "name":"",
@@ -367,23 +319,7 @@
                  "y":360
                 }, 
                 {
-                 "gid":2193,
-                 "height":40,
-                 "id":1037,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":24,
-                 "x":48,
-                 "y":360
-                }, 
-                {
-                 "gid":5873,
+                 "gid":6042,
                  "height":16,
                  "id":1038,
                  "name":"",
@@ -399,7 +335,7 @@
                  "y":360
                 }, 
                 {
-                 "gid":3410,
+                 "gid":3474,
                  "height":16,
                  "id":1039,
                  "name":"",
@@ -415,7 +351,7 @@
                  "y":168
                 }, 
                 {
-                 "gid":2169,
+                 "gid":2223,
                  "height":20,
                  "id":1040,
                  "name":"",
@@ -431,7 +367,7 @@
                  "y":328
                 }, 
                 {
-                 "gid":2267,
+                 "gid":2321,
                  "height":40,
                  "id":1041,
                  "name":"",
@@ -447,13 +383,13 @@
                  "y":272
                 }, 
                 {
-                 "gid":2220,
+                 "gid":2274,
                  "height":40,
                  "id":1042,
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\":[\"apexcityTreasure\"]}"
+                     "parameters":"{\"treasurePools\":[\"cbhumancityTreasure\"]}"
                     },
                  "rotation":0,
                  "type":"",
@@ -463,7 +399,7 @@
                  "y":328
                 }, 
                 {
-                 "gid":2233,
+                 "gid":2287,
                  "height":16,
                  "id":1043,
                  "name":"",
@@ -479,7 +415,7 @@
                  "y":328
                 }, 
                 {
-                 "gid":2294,
+                 "gid":2348,
                  "height":24,
                  "id":1044,
                  "name":"",
@@ -495,7 +431,7 @@
                  "y":272
                 }, 
                 {
-                 "gid":2329,
+                 "gid":2383,
                  "height":16,
                  "id":1045,
                  "name":"",
@@ -511,7 +447,7 @@
                  "y":272
                 }, 
                 {
-                 "gid":2147485942,
+                 "gid":2147485996,
                  "height":24,
                  "id":1046,
                  "name":"",
@@ -527,7 +463,7 @@
                  "y":272
                 }, 
                 {
-                 "gid":2303,
+                 "gid":2357,
                  "height":16,
                  "id":1047,
                  "name":"",
@@ -543,23 +479,7 @@
                  "y":296
                 }, 
                 {
-                 "gid":2237,
-                 "height":16,
-                 "id":1048,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":256,
-                 "y":304
-                }, 
-                {
-                 "gid":2476,
+                 "gid":2530,
                  "height":48,
                  "id":1050,
                  "name":"",
@@ -575,7 +495,7 @@
                  "y":424
                 }, 
                 {
-                 "gid":5775,
+                 "gid":5944,
                  "height":8,
                  "id":1051,
                  "name":"",
@@ -591,13 +511,13 @@
                  "y":384
                 }, 
                 {
-                 "gid":2147485870,
+                 "gid":2147485924,
                  "height":40,
                  "id":1054,
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\":[\"apexcityTreasure\"]}"
+                     "parameters":"{\"treasurePools\":[\"cbhumancityTreasure\"]}"
                     },
                  "rotation":0,
                  "type":"",
@@ -607,7 +527,7 @@
                  "y":424
                 }, 
                 {
-                 "gid":2147491252,
+                 "gid":2147491454,
                  "height":20,
                  "id":1055,
                  "name":"",
@@ -621,6 +541,22 @@
                  "width":16,
                  "x":224,
                  "y":424
+                }, 
+                {
+                 "gid":4503,
+                 "height":24,
+                 "id":1060,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":48,
+                 "x":192,
+                 "y":248
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -847,7 +783,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":1060,
+ "nextobjectid":1061,
  "orientation":"orthogonal",
  "properties":
     {
@@ -865,131 +801,131 @@
          "source":"..\/..\/..\/tilesets\/packed\/miscellaneous.json"
         }, 
         {
-         "firstgid":210,
+         "firstgid":211,
          "source":"..\/..\/..\/tilesets\/packed\/liquids.json"
         }, 
         {
-         "firstgid":238,
+         "firstgid":239,
          "source":"..\/..\/..\/tilesets\/packed\/supports.json"
         }, 
         {
-         "firstgid":274,
+         "firstgid":275,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/generic.json"
         }, 
         {
-         "firstgid":1998,
+         "firstgid":2051,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/ancient.json"
         }, 
         {
-         "firstgid":2114,
+         "firstgid":2168,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/apex.json"
         }, 
         {
-         "firstgid":2480,
+         "firstgid":2536,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/avian.json"
         }, 
         {
-         "firstgid":2781,
+         "firstgid":2840,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/floran.json"
         }, 
         {
-         "firstgid":2973,
+         "firstgid":3035,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/glitch.json"
         }, 
         {
-         "firstgid":3197,
+         "firstgid":3261,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/human.json"
         }, 
         {
-         "firstgid":3467,
+         "firstgid":3540,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/hylotl.json"
         }, 
         {
-         "firstgid":3697,
+         "firstgid":3771,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-race\/novakid.json"
         }, 
         {
-         "firstgid":3722,
+         "firstgid":3834,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/crafting.json"
         }, 
         {
-         "firstgid":3797,
+         "firstgid":3913,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/decorative.json"
         }, 
         {
-         "firstgid":5094,
+         "firstgid":5246,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/door.json"
         }, 
         {
-         "firstgid":5202,
+         "firstgid":5363,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/farmable.json"
         }, 
         {
-         "firstgid":5277,
+         "firstgid":5438,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/furniture.json"
         }, 
         {
-         "firstgid":5602,
+         "firstgid":5771,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/light.json"
         }, 
         {
-         "firstgid":6009,
+         "firstgid":6191,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/other.json"
         }, 
         {
-         "firstgid":6301,
+         "firstgid":6487,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/pot.json"
         }, 
         {
-         "firstgid":6598,
+         "firstgid":6784,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/sapling.json"
         }, 
         {
-         "firstgid":6599,
+         "firstgid":6785,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/spawner.json"
         }, 
         {
-         "firstgid":6614,
+         "firstgid":6800,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/storage.json"
         }, 
         {
-         "firstgid":6830,
+         "firstgid":7021,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/teleporter.json"
         }, 
         {
-         "firstgid":6861,
+         "firstgid":7053,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/tools.json"
         }, 
         {
-         "firstgid":6866,
+         "firstgid":7058,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/trap.json"
         }, 
         {
-         "firstgid":7068,
+         "firstgid":7262,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/wire.json"
         }, 
         {
-         "firstgid":7253,
+         "firstgid":7447,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-type\/container.json"
         }, 
         {
-         "firstgid":7519,
+         "firstgid":7719,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-type\/farmable.json"
         }, 
         {
-         "firstgid":7595,
+         "firstgid":7797,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-type\/loungeable.json"
         }, 
         {
-         "firstgid":7850,
+         "firstgid":8062,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-type\/noisy.json"
         }, 
         {
-         "firstgid":7891,
+         "firstgid":8103,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-type\/teleporter.json"
         }, 
         {
-         "firstgid":7915,
+         "firstgid":8128,
          "source":"..\/..\/..\/tilesets\/packed\/huge-objects.json"
         }],
  "tilewidth":8,

@@ -1,0 +1,16 @@
+[
+  {
+    "op" : "add",
+    "path" : "/testhumancity",
+    "value" : {
+      "primaryDungeon" : "humancity",
+      "threatLevel" : 2,
+      "gravity" : 80,
+      "worldSize" : [2000, 2000],
+      "dungeonBaseHeight" : 1000,
+      "ambientLightLevel" : [200, 200, 200],
+      "musicTrack" : "/music/ocean-battle1.ogg",
+      "biome": "alien"
+    }
+  }
+]

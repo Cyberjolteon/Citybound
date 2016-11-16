@@ -137,7 +137,7 @@
                  "properties":
                     {
                      "npc":"apex",
-                     "typeName":"miniknogvillageguard"
+                     "typeName":"friendlyguard"
                     },
                  "propertytypes":
                     {

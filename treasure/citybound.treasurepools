@@ -1,0 +1,57 @@
+{
+    "cbhumancityTreasure" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.96, "pool" : "basicTreasure"},
+        {"weight" : 0.04, "item" : "coconuticecream"}
+      ],
+      "poolRounds" : [
+        [0.30, 0],
+        [0.20, 1],
+        [0.40, 2],
+        [0.10, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
+  "cbhumancityChestTreasure" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.70, "pool" : "valuableTreasure"},
+        {"weight" : 0.29, "pool" : "goodWeapon"},
+        {"weight" : 0.01, "item" : "fedorahead"}
+      ],
+      "poolRounds" : [
+        [0.55, 1],
+        [0.40, 2],
+        [0.05, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
+  "cbhumancityRareTreasure" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1, "pool" : "LargeDungeonReward"}
+      ],
+      "poolRounds" : 1,
+      "allowDuplication" : false
+    }]
+  ],
+
+  "cbhumancityLore" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.2, "item" : "humanhistory5-codex"},
+        {"weight" : 0.2, "item" : "humanhistory7-codex"},
+        {"weight" : 0.2, "item" : "humanhistory10-codex"},
+        {"weight" : 0.2, "item" : "humanhistory1-codex"},
+        {"weight" : 0.2, "item" : "humanhistory9-codex"}
+      ],
+      "poolRounds" : 1,
+      "allowDuplication" : false
+    }]
+  ]
+}

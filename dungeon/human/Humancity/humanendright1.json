@@ -53,7 +53,7 @@
                  "properties":
                     {
                      "npc":"human",
-                     "typeName":"miniknogvillageguard"
+                     "typeName":"friendlyguard"
                     },
                  "rotation":0,
                  "type":"",
@@ -181,7 +181,7 @@
                  "properties":
                     {
                      "npc":"human",
-                     "typeName":"miniknogvillageguard"
+                     "typeName":"friendlyguard"
                     },
                  "rotation":0,
                  "type":"",
