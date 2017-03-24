@@ -8,7 +8,7 @@
       "layers" : {
         "surface" : {
           "primaryRegion" : ["populated"],
-          "secondaryRegions" : ["garden"],
+          "secondaryRegions" : ["populated"],
           "dungeonCountRange" : [2, 2],
           "dungeons" : [[1.0, "humancity"], [1.0, "gardengate"]]
         }
@@ -19,7 +19,7 @@
  "value" : {
       "caveLiquid" : [ "water" ],
       "blockSelector" : [ "remixedMildSurface" ],
-      "fgCaveSelector" : [ "surfaceCaves" ],
+      "fgCaveSelector" : [ "sparseCaves" ],
       "bgCaveSelector" : [ "empty" ],
       "biome" : [
         [0, [ "populated" ]]

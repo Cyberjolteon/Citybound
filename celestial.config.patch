@@ -14,7 +14,7 @@
 	"path" : "/terrestrialGraphics/populated",
 	"value" :
 {
-      "baseImages" : "/celestial/system/terrestrial/biomes/garden/maskie<num>.png",
+      "baseImages" : "/celestial/system/terrestrial/biomes/civil/maskie<num>.png",
       "dynamicsImages" : "/celestial/system/terrestrial/dynamics/temperate/<num>.png",
       "dynamicsRange" : [1, 30],
       "baseCount" : 5

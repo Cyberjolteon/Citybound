@@ -1,0 +1,12 @@
+betaALPHA's changes:
+
+*New text color (cyan) in ship navigation description for the word "populated"
+*3 unique text descriptions, as with other vanilla planets
+*Unique planet colors in ship nav and backgrounds (cyan-grey, blue-grey, and pale green (with two old lush greens))
+*Civilized Biome-type:
+ *Hostile creatures removed
+ *More critter variety and the selection has changed (-bunnies, -bird, +vulture, +squirrel)
+ *No wild farmables
+ *No unique terrain formations
+ *Underground asphalt can be found (should this be something else?)
+ *cave generation should be sparse

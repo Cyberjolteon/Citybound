@@ -2,8 +2,8 @@
 {"op":"add",
 "path":"/planetTypeToDescription/populated",
 "value":[
-"^#9AFE2E;Populated worlds^white; are located in the Goldilocks zone, and are covered in bustling cities.",
-"^#9AFE2E;Populated worlds^white; are located in the Goldilocks zone, and are covered in bustling cities.",
-"^#9AFE2E;Populated worlds^white; are located in the Goldilocks zone, and are covered in bustling cities."]
+"^#4BBD9E;Populated ^white;worlds like this one are located in the Goldilocks zone, and are covered in bustling cities.",
+"I'm detecting radio transmissions and general chatter from this planet. It's probably a ^#4BBD9E;populated ^white;world, where many sentient inhabitants reside.",
+"Sensors indicate that this planet is ^#4BBD9E;populated^white;, quite likely we'll find large numbers of people here."]
 }
 ]
