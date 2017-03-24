@@ -1,8 +1,0 @@
-[
-{"op":"replace","path":"/findStarterWorldParameters/starterWorld",
-"value":{
-      "terrestrialBiome" : "populated",
-      "terrestrialSize" : "small"
-      }
-}
-]
