@@ -10,3 +10,4 @@ betaALPHA's changes:
  *No unique terrain formations
  *Underground asphalt can be found (should this be something else?)
  *cave generation should be sparse
+ *removed gates to the outpost

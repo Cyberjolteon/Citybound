@@ -146,30 +146,6 @@
         ]
       },
 
-      // MICRO DUNGEONS
-
-      {
-        "mode" : "floor",
-        "priority" : 1,
-        "variants" : 1,
-        "distribution" : "/biomes/distributions.config:mainBiomeMicrodungeon",
-
-        "type" : "microdungeon",
-        "microdungeons" : [ "gardenmicrodungeons" ]
-      },
-
-
-      // TERRAIN
-
-      {
-        "mode" : "floor",
-        "priority" : 3.0,
-        "variants" : 1,
-        "distribution" : "/biomes/distributions.config:tiyDist",
-
-        "type" : "microdungeon",
-        "microdungeons" : [ "flats", "rockyshapes", "blank", "none" ]
-      },
 
       // GRASS and TREES and PLANTS
 
