@@ -1,13 +1,25 @@
 betaALPHA's changes:
 
-*New text color (cyan) in ship navigation description for the word "populated"
-*3 unique text descriptions, as with other vanilla planets
-*Unique planet colors in ship nav and backgrounds (cyan-grey, blue-grey, and pale green (with two old lush greens))
-*Civilized Biome-type:
+*Celestial & Navigation:
+ *Keyword "populated" in a teal color, distinct from lush planets
+ *3 unique text descriptions, as with other vanilla planets
+ *Unique planet colors: teal-grey, grey, and pale green (with two old lush greens).
+
+*Surface:
  *Hostile creatures removed
- *More critter variety and the selection has changed (-bunnies, -bird, +vulture, +squirrel)
- *No wild farmables
+ *More critter variety (4) and the selection has changed (-bunnies, -bird, -snail, +vulture, +squirrel, +gull)
+ *No wild farmable plants
  *No unique terrain formations
+ *Night lights have been adjusted to appear more realistic
  *Underground asphalt can be found (should this be something else?)
  *cave generation should be sparse
  *removed gates to the outpost
+ *Increased number of attempted dungeons and updated the list to include some variety in races (unsure if it works)
+
+*Game:
+ *reset starting planet to the defualt "lush" type
+ *removed secondaryRegions from terrestrial_worlds patch
+
+
+~~~~~~~~~~~~~~~~IDEAS~~~~~~~~~~~~~~~~
+*Reformat terain generation to make the land flatter/have less mountains

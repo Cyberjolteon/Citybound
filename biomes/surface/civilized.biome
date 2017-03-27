@@ -22,7 +22,7 @@
         "pool" : "generatedFlying"
       },
       {
-        "select" : 3,
+        "select" : 4,
         "pool" : [
           [ 0.2, "vulturecritter" ],
           [ 0.15, "hedgehogcritter" ],
