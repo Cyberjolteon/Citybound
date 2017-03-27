@@ -23,3 +23,4 @@ betaALPHA's changes:
 
 ~~~~~~~~~~~~~~~~IDEAS~~~~~~~~~~~~~~~~
 *Reformat terain generation to make the land flatter/have less mountains
+*Would like to implement new dungeon that's a tower (Trump tower, perhaps?) with a "boss" at the top.
