@@ -191,22 +191,6 @@
                  "y":216
                 }, 
                 {
-                 "gid":2147485817,
-                 "height":24,
-                 "id":988,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":24,
-                 "x":168,
-                 "y":272
-                }, 
-                {
                  "gid":2147485915,
                  "height":40,
                  "id":989,
@@ -269,22 +253,6 @@
                  "width":40,
                  "x":184,
                  "y":160
-                }, 
-                {
-                 "gid":2268,
-                 "height":16,
-                 "id":1000,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":120,
-                 "y":192
                 }, 
                 {
                  "gid":2369,
@@ -405,7 +373,7 @@
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\":[\"apexcityChestTreasure\"]}"
+                     "parameters":"{\"treasurePools\":[\"cbhumancityChestTreasure\"]}"
                     },
                  "rotation":0,
                  "type":"",
@@ -845,6 +813,22 @@
                  "width":32,
                  "x":176,
                  "y":416
+                }, 
+                {
+                 "gid":3362,
+                 "height":24,
+                 "id":1086,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":40,
+                 "x":104,
+                 "y":216
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1118,7 +1102,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "width":0,
          "x":0,
          "y":0
@@ -1135,7 +1119,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":1086,
+ "nextobjectid":1087,
  "orientation":"orthogonal",
  "properties":
     {
