@@ -9,6 +9,7 @@
         "surface" : {
           "primaryRegion" : ["populated"],
           "dungeonCountRange" : [3, 4],
+          "dungeons" : [[4.0, "humancity"], ["avianvillage"], [1.0, "hylotloceancity"], [1.0, "hylotlcity"], [1.0, "novakidvillage"]]
         }
       }
     }},
