@@ -11,10 +11,10 @@ betaALPHA's changes:
  *No wild farmable plants
  *No unique terrain formations
  *Night lights have been adjusted to appear more realistic
- *Underground asphalt can be found (should this be something else?)
+ *Underground and surface asphalt patches, representing old roads and debris
  *cave generation should be sparse
- *removed gates to the outpost
- *Increased number of attempted dungeons and updated the list to include some variety in races (unsure if it works)
+ *removed outpost gates
+ *Increased number of attempted dungeons and updated the list to include some variety in races
 
 *Game:
  *reset starting planet to the defualt "lush" type

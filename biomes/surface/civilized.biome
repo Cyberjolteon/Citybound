@@ -5,6 +5,13 @@
   "spawnProfile" : {
     "groups" : [
       {
+        "select" : 2,
+        "pool" : [
+          [ 0.5, "wilddog" ],
+		  [ 0.5, "wildcat" ]
+        ]
+      },
+	  {
         "select" : 1,
         "pool" : [
           [ 0.2, "butterbee" ],
