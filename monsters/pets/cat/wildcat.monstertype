@@ -1,23 +1,18 @@
 {
   "type" : "wildcat",
-   "shortdescription" : "Wild Cat",
-  "description" : "An untamed feline. Use caution and treat it with respect, it will do the same",
+  "shortdescription" : "Wildcat",
+  "description" : "An tamed feral feline. Treat it with respect, and it will do the same.",
 
-  "categories" : [ "wildcat" ],
+  "categories" : [ "petcat" ],
   "parts" : [ "body" ],
 
-  "animation" : "petcat.animation",
+  "animation" : "wildcat.animation",
 
   "dropPools" : [ ],
 
- "baseParameters" : {
+  "baseParameters" : {
     "scripts" : [
-      "/monsters/monster.lua",
-	  "/monsters/pets/actions/inspectAction.lua",
-      "/monsters/pets/actions/eatAction.lua",
-      "/monsters/pets/actions/sleepAction.lua",
-      "/monsters/pets/actions/begAction.lua",
-      "/monsters/pets/actions/pounceAction.lua"
+      "/monsters/monster.lua"
     ],
 
     "behavior" : "monster",
@@ -38,27 +33,42 @@
       "hostileActions" : [
         {
           "name" : "action-leap",
-          "cooldown" : 1,
+          "cooldown" : 0.3,
           "parameters" : {
-            "minimumRange" : 5,
+            "minimumRange" : 0,
             "maximumRange" : 20,
+            "maxXRange" : 4,
+            "windupTime" : 0.1,
             "windupState" : "idle",
-            "windupTime" : 0.75,
 
-            "leapVelocity" : 35,
+            "leapVelocity" : 25,
             "collisionCheck" : true,
-            "highArc" : false,
-            "leapState" : "leapjump",
-            "fallState" : "leapfall",
+            "highArc" : true,
+            "leapState" : "jump",
+            "fallState" : "fall",
 
-            "winddownTime" : 0.5
+            "winddownState" : "",
+            "winddownTime" : 0.2
           }
         }
       ],
 
       "periodicActions" : [],
 
-      "approachActions" : [],
+      "approachActions" : [
+        {
+          "name" : "approach-walk",
+          "parameters" : {
+            "canJump" : true,
+            "maxJumps" : 6,
+            "jumpXVelocity" : 12,
+            "jumpYVelocity" : 30,
+            "jumpXControlForce" : 50,
+            "minXRange" : 10,
+            "run" : true
+          }
+        }
+      ],
 
       "followActions" : [
         {
@@ -70,10 +80,11 @@
           "name" : "approach-walk",
           "parameters" : {
             "canJump" : true,
-            "maxJumps" : 8,
+            "maxJumps" : 6,
             "jumpXVelocity" : 12,
-            "jumpYVelocity" : 40,
-            "jumpXControlForce" : 50
+            "jumpYVelocity" : 30,
+            "jumpXControlForce" : 50,
+            "minXRange" : 10
           }
         }
       ],
@@ -83,87 +94,47 @@
           "name" : "wander-walk",
           "cooldown" : 6.0,
           "parameters" : {
-            "wanderTime" : [0.5, 1.5]
+            "wanderTime" : [3, 10]
+          }
+        },
+		{
+          "name" : "action-hop",
+          "cooldown" : 12.0,
+          "parameters" : {
+            "verticalSpeed" : 15,
+            "horizontalSpeed" : 8,
+            "hopSequence" : 1,
+            "timeBetweenHops" : 0.25,
+            "hopAwayFromWall" : false
           }
         }
       ]
     },
 
-    "actionParams" : {
-      "hungerStarvingLevel" : 80,
-      "beg" : {
-        "minScore" : 50,
-        "cooldown" : 5,
-        "distance" : 3,
-        "emoteCooldown" : 2
-      },
-      "inspect" : {
-        "minScore" : 20,
-        "cooldown" : 2
-      },
-      "eat" : {
-        "minScore" : 0,
-        "minHunger" : 40,
-        "cooldown" : 0,
-        "distance" : 2
-      },
-      "sleep" : {
-        "minScore" : 50,
-        "minSleepy" : 75,
-        "cooldown" : 10
-      },
-      "starving" : {
-        "minScore" : 60,
-        "cooldown" : 3
-      }
-    },
+    "touchDamage" : {
+      "poly" : [ [-1.625, -2.375], [1.75, -2.375], [1.75, 2.0], [-1.625, 2.0] ],
+      "damage" : 8,
 
-    "pathing" : {
-      "canOpenDoors" : false
+      "teamType" : "enemy",
+      "damageSourceKind" : "slash",
+      "knockback" : 8,
+      "statusEffects" : [ ]
     },
+	
+	"damageTeamType" : "friendly",
 
     "metaBoundBox" : [-1.625, -2.375, 1.75, 2.0],
     "scale" : 1.0,
 
-    "querySurroundingsCooldown" : 1,
-
-    "wander" : {
-      "wanderTime" : [5, 10],
-      "changeDirectionTime" : [5, 10],
-      "changeDirectionWait" : [1, 3]
-    },
-
-    "pounce" : {
-      "maxRange" : 10,
-      "minRange" : 5
-    },
-
-    "idle" : {
-      "idleTime" : [4, 8],
-      "standTime" : 2
-    },
-
-    "touchDamage" : {
-      "poly" : [ [-1.625, -2.375], [1.75, -2.375], [1.75, 2.0], [-1.625, 2.0] ],
-      "damage" : 15,
-
-      "teamType" : "enemy",
-      "damageSourceKind" : "lash",
-      "statusEffects" : [ ]
-    },
-
-    "aggressive" : true,
-    "damageTeamType" : "friendly",
-
     "movementSettings" : {
-	  "collisionPoly" : [ [-0.75, -0.65], [-0.4, -1], [0.4, -1], [0.75, -0.65], [0.75, 0.15], [0.4, 0.5], [-0.4, 0.5], [-0.75, 0.15] ],
+      "collisionPoly" : [ [-0.75, -0.65], [-0.4, -1], [0.4, -1], [0.75, -0.65], [0.75, 0.15], [0.4, 0.5], [-0.4, 0.5], [-0.75, 0.15] ],
 
       "mass" : 1.0,
       "walkSpeed" : 4,
       "runSpeed" : 14,
-      "flySpeed" : 15,
-      "airForce" : 50.0,
+
       "airFriction" : 0,
+
       "airJumpProfile" : {
         "jumpSpeed" : 45.0,
         "jumpInitialPercentage" : 1.0,
@@ -174,9 +145,7 @@
     "bodyMaterialKind" : "organic",
 
     "knockoutTime" : 0.3,
-    "knockoutAnimationStates" : {
-      "damage" : "stunned"
-    },
+    "knockoutAnimationStates" : {},
     "deathParticles" : "deathPoof",
     "knockoutEffect" : "",
 
@@ -202,7 +171,7 @@
           "baseValue" : 9
         },
         "maxHealth" : {
-          "baseValue" : 65
+          "baseValue" : 50
         },
         "protection" : {
           "baseValue" : 0.0
@@ -210,12 +179,42 @@
         "healthRegen" : {
           "baseValue" : 0.0
         },
+        "lavaImmunity" : {
+          "baseValue" : 1.0
+        },
         "powerMultiplier" : {
           "baseValue" : 1.0
+        },
+        "physicalResistance" : {
+          "baseValue" : 0.0
+        },
+        "fireResistance" : {
+          "baseValue" : 0.5
+        },
+        "fireStatusImmunity" : {
+          "baseValue" : 1.0
+        },
+        "iceResistance" : {
+          "baseValue" : -0.5
+        },
+        "iceStatusImmunity" : {
+          "baseValue" : 0.0
+        },
+        "electricResistance" : {
+          "baseValue" : 0.0
+        },
+        "electricStatusImmunity" : {
+          "baseValue" : 0.0
+        },
+        "poisonResistance" : {
+          "baseValue" : 0.0
+        },
+        "poisonStatusImmunity" : {
+          "baseValue" : 0.0
         }
       },
 
-       "resources" : {
+      "resources" : {
         "stunned" : {
           "deltaValue" : -1.0,
           "initialValue" : 0.0
@@ -224,18 +223,6 @@
           "maxStat" : "maxHealth",
           "deltaStat" : "healthRegen",
           "defaultPercentage" : 100
-        },
-        "sleepy" : {
-          "maxValue" : 100,
-          "defaultPercentage" : 10
-        },
-        "hunger" : {
-          "maxValue" : 100,
-          "defaultPercentage" : 10
-        },
-        "curiosity" : {
-          "maxValue" : 100,
-          "defaultPercentage" : 10
         }
       }
     },
@@ -243,6 +230,7 @@
     "mouthOffset" : [0, 0],
     "feetOffset" : [0, -8],
     "capturable" : true,
+
     "captureHealthFraction" : 1.0,
     "nametagColor" : [64, 200, 255]
   }
