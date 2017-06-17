@@ -1,24 +1,28 @@
 betaALPHA's changes:
 
+1.3 Update:
+
+*Mod now has full features and artwork to be compatible with the new 1.3 Starbound Update!
+
 *Celestial & Navigation:
- *Keyword "populated" in a teal color, distinct from lush planets
- *3 unique text descriptions, as with other vanilla planets
- *Unique planet colors: teal-grey, grey, and pale green (with two old lush greens).
- *Removed as tier 1 type planets and moons (they were way too common relative to the vanilla 
-  "lush" worlds). Are now tier II only
+ *3 unique text descriptions, with unique atributes!
+ *Unique planet colors for recognition in orbit, in navigation, and in bookmark!
+  teal-grey, grey, and pale green (with two old lush greens).
+ *Removed as tier 1. Are now tier II only, but can still show up in tier 1 systems
 
 *Surface:
- *Hostile creatures removed
+ *Hostile creatures have been exterminated after years of settlement!
  *Increased number of attempted dungeons and updated the list to include some variety in races 
   (guarenteed human cities, removed outpost gates)
+ *Introduced lamppost generation
  *More critter variety (4) and the selection has changed (-bunnies, -bird, -snail, +vulture, 
   +squirrel, +gull)
  *Added cats and dogs! These are capturable and spawn in different colors on different populated 
-  planets (simulates regional popularity?? lol)
+  planets due to regional popularity!
  *No wild farmable plants
  *No unique terrain formations
- *cave generation should be sparse
- *Night lights have been adjusted to appear more realistic
+ *cave generation is now sparse(er)
+ *Night lights are more realistic
  *Underground and surface asphalt patches, representing old roads and debris
 
 *Game:

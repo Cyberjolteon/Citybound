@@ -86,10 +86,10 @@
 
   "musicTrack" : {
     "day" : {
-      "tracks" : [ "/music/epsilon-indi.ogg", "/music/hymn-to-the-stars.ogg", "/music/drosera.ogg", "/music/stellarformation.ogg", "/music/ultramarine.ogg", "/music/atlas.ogg", "/music/atlas.ogg", "/music/cygnus-x1.ogg", "/music/cygnus-x1.ogg", "/music/haiku.ogg", "/music/stellar-acclimation.ogg", "/music/stellar-acclimation.ogg" ]
+      "tracks" : [ "/music/epsilon-indi.ogg", "/music/hymn-to-the-stars.ogg", "/music/title-menu-music.ogg", "/music/stellarformation.ogg", "/music/ultramarine.ogg", "/music/atlas.ogg", "/music/atlas.ogg", "/music/cygnus-x1.ogg", "/music/cygnus-x1.ogg", "/music/haiku.ogg", "/music/stellar-acclimation.ogg", "/music/stellar-acclimation.ogg" ]
     },
     "night" : {
-      "tracks" : [ "/music/body-electric-loop.ogg", "/music/ultramarine.ogg", "/music/stellar-acclimation.ogg", "/music/mercury.ogg", "/music/mira.ogg", "/music/procyon.ogg", "/music/stellar-acclimation.ogg", "/music/haiku.ogg", "/music/accretion-disc.ogg", "/music/cygnus-x1.ogg", "/music/ocean-exploration2.ogg", "/music/horsehead-nebula.ogg", "/music/large-magellanic-cloud.ogg", "/music/on-the-beach-at-night.ogg" ]
+      "tracks" : [ "/music/body-electric-loop.ogg", "/music/ultramarine.ogg", "/music/stellar-acclimation.ogg", "/music/mercury.ogg", "/music/mira.ogg", "/music/procyon.ogg", "/music/forsaken-grotto.ogg", "/music/haiku.ogg", "/music/accretion-disc.ogg", "/music/cygnus-x1.ogg", "/music/ocean-exploration2.ogg", "/music/horsehead-nebula.ogg", "/music/large-magellanic-cloud.ogg", "/music/on-the-beach-at-night.ogg" ]
     } 
   },
 
@@ -223,6 +223,23 @@
             "name" : "testbush",
             "baseHueShiftMax" : 40,
             "modHueShiftMax" : 180
+          }
+        ]
+      },
+	  
+	  //LAMP POSTS
+	  
+	  {
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:randomEncounter",
+
+		"type" : "object",
+        "objectSets" : [
+          {
+            "pool" : [ [0.4, "frontierlamppost"], [0.3, "lamppost1"],  [0.3, "lamppost2"]  ],
+            "parameters" : { }
           }
         ]
       }
