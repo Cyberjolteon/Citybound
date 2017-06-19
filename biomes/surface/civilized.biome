@@ -233,12 +233,12 @@
         "mode" : "floor",
         "priority" : 1.0,
         "variants" : 1,
-        "distribution" : "/biomes/distributions.config:randomEncounter",
+        "distribution" : "/biomes/distributions.config:rareClumpyLarge", //randomEncounter= very sparse, random, scatteredLarge= sparce, evenly spread
 
 		"type" : "object",
         "objectSets" : [
           {
-            "pool" : [ [0.4, "frontierlamppost"], [0.3, "lamppost1"],  [0.3, "lamppost2"]  ],
+            "pool" : [ [0.4, "frontierlamppost"], [0.3, "lamppost1"],  [0.2, "lamppost2"], [0.1, "hylotlpost"]  ],
             "parameters" : { }
           }
         ]

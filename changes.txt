@@ -11,12 +11,10 @@ betaALPHA's changes:
  *Removed as tier 1. Are now tier II only, but can still show up in tier 1 systems
 
 *Surface:
- *Hostile creatures have been exterminated after years of settlement!
- *Increased number of attempted dungeons and updated the list to include some variety in races 
-  (guarenteed human cities, removed outpost gates)
+ *Hostile creatures have been exterminated after years of settlement
+ *Increased number of attempted dungeons and updated the list to include some variety in races
  *Introduced lamppost generation
- *More critter variety (4) and the selection has changed (-bunnies, -bird, -snail, +vulture, 
-  +squirrel, +gull)
+ *More critter variety and the selection has changed to include vultures, squirrels, and gulls
  *Added cats and dogs! These are capturable and spawn in different colors on different populated 
   planets due to regional popularity!
  *No wild farmable plants
@@ -24,6 +22,9 @@ betaALPHA's changes:
  *cave generation is now sparse(er)
  *Night lights are more realistic
  *Underground and surface asphalt patches, representing old roads and debris
+
+*Items:
+ *A terraformer now exists for this type of planet!
 
 *Game:
  *reset starting planet to the defualt "lush" type

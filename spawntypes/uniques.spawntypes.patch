@@ -1,4 +1,4 @@
 [
-	{ "op" : "add", "path" : "/-",  "value" : {"name" : "wilddog", "spawnParameters" : { "area" : "surface", "region" : "exposed", "time" : "all"}, "groupSize" : [0, 0], "spawnChance" : 0.1, "monsterType" : "rex", "monsterParameters" : {"aggressive" : false}}},
-	{ "op" : "add", "path" : "/-",  "value" : {"name" : "wildcat", "spawnParameters" : { "area" : "surface", "region" : "exposed", "time" : "all"}, "groupSize" : [0, 0], "spawnChance" : 0.08, "monsterType" : "wildcat", "monsterParameters" : {"aggressive" : false}}}
+	{ "op" : "add", "path" : "/-",  "value" : {"name" : "wilddog", "spawnParameters" : { "area" : "surface", "region" : "exposed", "time" : "all"}, "groupSize" : [0, 0], "spawnChance" : 0.15, "monsterType" : "rex", "monsterParameters" : {"aggressive" : false}}},
+	{ "op" : "add", "path" : "/-",  "value" : {"name" : "wildcat", "spawnParameters" : { "area" : "surface", "region" : "exposed", "time" : "all"}, "groupSize" : [0, 0], "spawnChance" : 0.1, "monsterType" : "wildcat", "monsterParameters" : {"aggressive" : false}}}
 ]
