@@ -1,9 +1,11 @@
 [
 {"op":"add",
-"path":"/planetTypeToDescription/populated",
+"path":"/visitableTypeDescription/populated",
 "value":[
-"^#4BBD9E;Populated ^white;worlds like this one are located in the Goldilocks zone, and are covered in bustling cities.",
-"I'm detecting radio transmissions and general chatter from this planet. It's probably a ^#4BBD9E;populated ^white;world, where many sentient inhabitants reside.",
-"Sensors indicate that this planet is ^#4BBD9E;populated^white;, quite likely we'll find large numbers of people here."]
-}
+"^#4BBEA0;Populated ^white;worlds like this one are located in the Goldilocks zone, and are covered in bustling cities.",
+"I'm detecting radio transmissions and general chatter from this planet. It's probably a ^#4BBEA0;populated ^white;world, where many sentient inhabitants reside.",
+"Sensors indicate that this planet is ^#4BBEA0;populated^white;, quite likely we'll find large numbers of people here."]
+},
+{"op":"add", "path":"/planetTypeNames/populated", "value": "Populated"},
+{"op":"add", "path":"/planetTypeColors/populated", "value": [75, 190, 160]}
 ]

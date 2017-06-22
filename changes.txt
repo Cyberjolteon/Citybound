@@ -1,26 +1,41 @@
 betaALPHA's changes:
 
+1.3 Update:
+
+*Mod now has full features and artwork to be compatible with the new 1.3 Starbound Update!
+
 *Celestial & Navigation:
- *Keyword "populated" in a teal color, distinct from lush planets
- *3 unique text descriptions, as with other vanilla planets
- *Unique planet colors: teal-grey, grey, and pale green (with two old lush greens).
+ *3 unique text descriptions, with unique atributes!
+ *Unique planet colors for recognition in orbit, in navigation, and in bookmark!
+  teal-grey, grey, and pale green (with two old lush greens).
+ *Removed as tier 1. Are now tier II only, but can still show up in tier 1 systems
 
 *Surface:
- *Hostile creatures removed
- *More critter variety (4) and the selection has changed (-bunnies, -bird, -snail, +vulture, +squirrel, +gull)
+ *Hostile creatures have been exterminated after years of settlement
+ *Increased number of attempted dungeons and updated the list to include some variety in races
+ *Introduced lamppost generation
+ *More critter variety and the selection has changed to include vultures, squirrels, and gulls
+ *Added cats and dogs! These are capturable and spawn in different colors on different populated 
+  planets due to regional popularity!
  *No wild farmable plants
  *No unique terrain formations
- *Night lights have been adjusted to appear more realistic
- *Underground asphalt can be found (should this be something else?)
- *cave generation should be sparse
- *removed gates to the outpost
- *Increased number of attempted dungeons and updated the list to include some variety in races (unsure if it works)
+ *cave generation is now sparse(er)
+ *Night lights are more realistic
+ *Underground and surface asphalt patches, representing old roads and debris
+
+*Items:
+ *A terraformer now exists for this type of planet!
 
 *Game:
  *reset starting planet to the defualt "lush" type
- *removed secondaryRegions from terrestrial_worlds patch
+ *New music for on the surface, both day and night (uses games own music files)
+
+
+~~~~~~~~~~OUTSTANDING ISSUES~~~~~~~~~
+ *The Hyotle underwater city spawns on the surface, but surrounded by water. Should make a new 
+  structure and tweek it
+ *The city lights should be looked at/passed over a couple times to ensure a good aesthetic look.
 
 
 ~~~~~~~~~~~~~~~~IDEAS~~~~~~~~~~~~~~~~
 *Reformat terain generation to make the land flatter/have less mountains
-*Would like to implement new dungeon that's a tower (Trump tower, perhaps?) with a "boss" at the top.

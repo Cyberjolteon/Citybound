@@ -5,6 +5,13 @@
   "spawnProfile" : {
     "groups" : [
       {
+        "select" : 2,
+        "pool" : [
+          [ 1.0, "wilddog" ],
+		  [ 1.0, "wildcat" ]
+        ]
+      },
+	  {
         "select" : 1,
         "pool" : [
           [ 0.2, "butterbee" ],
@@ -35,16 +42,14 @@
       }
     ],
     "monsterParameters" : {
-      "colors" : "garden"
+      "colors" : "rex"
     }
   },
 
   "hueShiftOptions" : [-30, -20, -15, -10, -5, 0, 5, 10, 15, 20, 30],
 
   "weather" : [
-    [0, [
-      "/weather.config:garden"
-    ]]
+    [0, ["/weather.config:garden", "/weather.config:forest"]]
   ],
 
   "skyOptions" : [
@@ -72,7 +77,7 @@
 
   "ambientNoises" : {
     "day" : {
-      "tracks" : [ "/sfx/environmental/garden_day.ogg" ]
+      "tracks" : [ "/sfx/environmental/protectorate_peaceful.ogg" ]
     },
     "night" : {
       "tracks" : [ "/sfx/environmental/garden_night.ogg" ]
@@ -81,11 +86,11 @@
 
   "musicTrack" : {
     "day" : {
-      "tracks" : [ "/music/epsilon-indi.ogg", "/music/hymn-to-the-stars.ogg", "/music/procyon.ogg", "/music/stellarformation.ogg", "/music/vast-immortal-suns.ogg", "/music/atlas.ogg", "/music/blue-straggler.ogg", "/music/cygnus-x1.ogg", "/music/europa.ogg", "/music/haiku.ogg", "/music/m54.ogg", "/music/on-the-beach-at-night.ogg" ]
+      "tracks" : [ "/music/epsilon-indi.ogg", "/music/hymn-to-the-stars.ogg", "/music/title-menu-music.ogg", "/music/stellarformation.ogg", "/music/ultramarine.ogg", "/music/atlas.ogg", "/music/atlas.ogg", "/music/cygnus-x1.ogg", "/music/cygnus-x1.ogg", "/music/haiku.ogg", "/music/stellar-acclimation.ogg", "/music/stellar-acclimation.ogg" ]
     },
     "night" : {
-      "tracks" : [ "/music/jupiter.ogg", "/music/arctic-constellation1.ogg", "/music/arctic-constellation2.ogg", "/music/mercury.ogg", "/music/mira.ogg", "/music/procyon.ogg", "/music/tranquility-base.ogg", "/music/psyche.ogg", "/music/accretion-disc.ogg", "/music/cygnus-x1.ogg", "/music/eridanus-supervoid.ogg", "/music/horsehead-nebula.ogg", "/music/large-magellanic-cloud.ogg", "/music/m54.ogg", "/music/nomads.ogg", "/music/on-the-beach-at-night.ogg" ]
-    }
+      "tracks" : [ "/music/body-electric-loop.ogg", "/music/ultramarine.ogg", "/music/stellar-acclimation.ogg", "/music/mercury.ogg", "/music/mira.ogg", "/music/procyon.ogg", "/music/forsaken-grotto.ogg", "/music/haiku.ogg", "/music/accretion-disc.ogg", "/music/cygnus-x1.ogg", "/music/ocean-exploration2.ogg", "/music/horsehead-nebula.ogg", "/music/large-magellanic-cloud.ogg", "/music/on-the-beach-at-night.ogg" ]
+    } 
   },
 
   "surfacePlaceables" : {
@@ -218,6 +223,23 @@
             "name" : "testbush",
             "baseHueShiftMax" : 40,
             "modHueShiftMax" : 180
+          }
+        ]
+      },
+	  
+	  //LAMP POSTS
+	  
+	  {
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:rareClumpyLarge", //randomEncounter= very sparse, random, scatteredLarge= sparce, evenly spread
+
+		"type" : "object",
+        "objectSets" : [
+          {
+            "pool" : [ [0.4, "frontierlamppost"], [0.3, "lamppost1"],  [0.2, "lamppost2"], [0.1, "hylotlpost"]  ],
+            "parameters" : { }
           }
         ]
       }
