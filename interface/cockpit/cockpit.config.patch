@@ -8,4 +8,16 @@
 },
 {"op":"add", "path":"/planetTypeNames/populated", "value": "Populated"},
 {"op":"add", "path":"/planetTypeColors/populated", "value": [75, 190, 160]}
+
+{"op":"add",
+"path":"/visitableTypeDescription/seaside",
+"value":[
+"^#ccebf9;seaside ^white;worlds like this one are located in the Goldilocks zone, and is covered in oceans with populated islands.",
+"I'm detecting radio transmissions and general chatter from this planet. It's a ^#ccebf9;seaside^white; world that is most likely ^#4BBEA0;;populated.",
+"Sensors indicate that this planet is simulair to a^#ccebf9;populated^ white; planet, however the cities are covered with lifely oceans."]
+},
+{"op":"add", "path":"/planetTypeNames/Seaside", "value": "Seaside"},
+{"op":"add", "path":"/planetTypeColors/Seaside", "value": [75, 190, 160]}
+
+
 ]

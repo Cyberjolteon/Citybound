@@ -16,13 +16,6 @@
       "nohueshift" : true
     },
     {
-      "kind" : "seasidefront",
-	  "baseCount" : 1,
-      "offset" : [0, 278],
-      "parallax" : [1.5, 1.05],
-      "nohueshift" : true
-    },
-    {
       "kind" : "ocean1",
       "offset" : [0, 278],
       "parallax" : [1.5, 1.05],
@@ -80,6 +73,32 @@
       "kind" : "oceanglow",
       "offset" : [0, 230],
       "parallax" : [8.01, 1.231],
+      "nohueshift" : true
+	  
+    },
+		{
+      "kind" : "cityships",
+	  "baseCount" : 1,
+      "offset" : [0, 200],
+      "parallax" : [8, 4.1],
+      "minSpeed" : 10000,
+      "maxSpeed" : 10000,
+	  "unlit" : true
+    },	
+			{
+      "kind" : "speedboat",
+	  "baseCount" : 1,
+      "offset" : [0, 0],
+      "parallax" : [8, 4.1],
+      "minSpeed" : 10000,
+      "maxSpeed" : 10000,
+	  "unlit" : true
+    },	
+	    {
+      "kind" : "seasidefront",
+	  "baseCount" : 1,
+      "offset" : [0, 278],
+      "parallax" : [1.5, 1.05],
       "nohueshift" : true
     },
 
