@@ -1,58 +1,79 @@
 [
-  {
-  "op" : "add", 
-   "path" : "/planetTypes/populated",
-   "value" : 
-     {
-	  "threatRange" : [1, 1],
-      "layers" : {
-        "surface" : {
-          "primaryRegion" : ["populated"],
-		  "secondaryRegions" : ["populated"],
-          "dungeonCountRange" : [2, 3],
-          "dungeons" : [[4.0, "humancity"], [1.0, "avianvillage"], [1.0, "hylotlcity"], [1.0, "novakidvillage"]]
-        }
-      }
-    }},
-  {"op" : "add",
-  "path" : "/regionTypes/populated",
- "value" : {
-      "caveLiquid" : [ "water" ],
-      "blockSelector" : [ "remixedMildSurface" ],
-      "fgCaveSelector" : [ "sparseCaves" ],
-      "bgCaveSelector" : [ "empty" ],
-      "biome" : [
-        [0, [ "populated" ]]
-    }},
-	
-	  {
-  "op" : "add", 
-   "path" : "/planetTypes/seaside",
-   "value" : 
-   {
-      "blendSize" : 30,
-      "threatRange" : [2, 2],
-      "layers" : {
-        "surface" : {
-          "primaryRegion" : ["seaside"],
-          "baseHeight" : 1150,
-          "layerLevel" : 1050
-        },
-        "subsurface" : {
-          "primaryRegion" : ["oceanfloor"],
-          "dungeons" : [[1.0, "hylotloceancity"], [1.0, "hylotlruinedcity"]]
-        }
-      }
-    },
+    {
+		"op" : "add", 
+		"path" : "/planetTypes/populated",
+		"value" : 
+		{
+			"threatRange" : [1, 1],
+			"layers" : 
+			{
+				"surface" : 
+				{
+					"primaryRegion" : ["populated"],
+					"secondaryRegions" : ["populated"],
+					"dungeonCountRange" : [2, 3],
+					"dungeons" : 
+					[    
+						[4.0, "humancity"], 
+						[1.0, "avianvillage"], 
+						[1.0, "hylotlcity"], 
+						[1.0, "novakidvillage"]
+					]
+				}
+			}
+		}
+	},
 	{
-{"op" : "add",
-  "path" : "/regionTypes/seaside",
- "value" : {
-      "caveLiquid" : [ "water" ],
-      "blockSelector" : [ "remixedMildSurface" ],
-      "fgCaveSelector" : [ "sparseCaves" ],
-      "bgCaveSelector" : [ "empty" ],
-      "biome" : [
-        [0, [ "seaside" ]]
-    }}
+		"op" : "add",
+		"path" : "/regionTypes/populated",
+		"value" : 
+		{
+			"caveLiquid" : [ "water" ],
+			"blockSelector" : [ "remixedMildSurface" ],
+			"fgCaveSelector" : [ "sparseCaves" ],
+			"bgCaveSelector" : [ "empty" ],
+			"biome" : 
+			[
+				[0, [ "populated" ]]
+			]
+		}
+	},
+	{
+		"op" : "add", 
+		"path" : "/planetTypes/seaside",
+		"value" : 
+		{
+			"blendSize" : 30,
+			"threatRange" : [2, 2],
+			"layers" : 
+			{
+				"surface" : 
+				{
+					"primaryRegion" : ["seaside"],
+					"baseHeight" : 1150,
+					"layerLevel" : 1050
+				},
+				"subsurface" : 
+				{
+					"primaryRegion" : ["oceanfloor"],
+					"dungeons" : [[1.0, "hylotloceancity"], [1.0, "hylotlruinedcity"]]
+				}
+			}
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/regionTypes/seaside",
+		"value" : 
+		{
+			"caveLiquid" : [ "water" ],
+			"blockSelector" : [ "remixedMildSurface" ],
+			"fgCaveSelector" : [ "sparseCaves" ],
+			"bgCaveSelector" : [ "empty" ],
+			"biome" : 
+			[
+				[0, [ "seaside" ]]
+			]
+		}
+	}
 ]

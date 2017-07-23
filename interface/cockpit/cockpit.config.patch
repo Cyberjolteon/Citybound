@@ -7,7 +7,7 @@
 "Sensors indicate that this planet is ^#4BBEA0;populated^white;, quite likely we'll find large numbers of people here."]
 },
 {"op":"add", "path":"/planetTypeNames/populated", "value": "Populated"},
-{"op":"add", "path":"/planetTypeColors/populated", "value": [75, 190, 160]}
+{"op":"add", "path":"/planetTypeColors/populated", "value": [75, 190, 160]},
 
 {"op":"add",
 "path":"/visitableTypeDescription/seaside",

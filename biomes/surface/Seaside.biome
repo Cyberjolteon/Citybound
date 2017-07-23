@@ -1,6 +1,6 @@
 {
-  "name" : "ocean",
-  "friendlyName" : "Tropical Ocean",
+  "name" : "Seaside",
+  "friendlyName" : "Seaside",
 
   "spawnProfile" : {
     "groups" : [
